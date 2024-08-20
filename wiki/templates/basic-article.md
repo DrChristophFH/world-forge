@@ -1,0 +1,5 @@
+---
+category: "<CATEGORY>"
+---
+
+# Article Title

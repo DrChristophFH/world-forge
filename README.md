@@ -20,3 +20,9 @@ From the towering fortresses guarding the north to hidden valleys teeming with m
 - [Objects](/wiki/060-Objects.md)
 - [Organizations](/wiki/070-Organizations.md)
 - [People](/wiki/080-People.md)
+
+## Contributing
+
+If you're interested in contributing to the BotN project, we'd love to have you join us! Reference the Guide below to learn how you can get involved and start creating content for the world of the Bulwarks of the North.
+
+- [Guide](/wiki/900-Guide.md)

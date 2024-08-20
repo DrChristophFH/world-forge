@@ -69,3 +69,4 @@ The Age of Bulwarks is further divided into 4 eras:
 
 4. **EEW** - Era of Eternal War 397 BB - 543 BB
 
+It should be noted that eras are not often used in denoting dates. Usually only the year with AB or BB is used. 
