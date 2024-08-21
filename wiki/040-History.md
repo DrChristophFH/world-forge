@@ -41,16 +41,16 @@ category: index
 - 93 AB: [Begin "Era of Light"](/wiki/history/Calendar.md#eras)
 - 242 AB: Completion of the last Bulwark Bulwark of the Gods
 - 286 AB: [Begin "Era of Storms"](/wiki/history/Calendar.md#eras)
-- 286 AB: First Dark Storm Duration: 15 days
-- 297 AB: Second Dark Storm Duration: 27 days
-- 302 AB: Third Dark Storm Duration: 37 days
-- 323 AB: Fourth Dark Storm Duration: 74 days
-- 326 AB: Fifth Dark Storm Duration: 23 days
-- 333 AB: Birth of Athesis in the Sanctum Sortis
-- 349 AB: Sixth Dark Storm Duration: 14 days
-- 349 AB: Seventh Dark Storm Duration: 94 days
-- 355 AB: Eighth Dark Storm Duration: 66 days
-- 396-397 AB: Ninth Dark Storm Destroys large parts of the northern kingdoms over 262 days, significantly weakening the Arch-God Kingdom and its forces
+- 286 AB: First Dark Storm, Duration: 15 days
+- 297 AB: Second Dark Storm, Duration: 27 days
+- 302 AB: Third Dark Storm, Duration: 37 days
+- 323 AB: Fourth Dark Storm, Duration: 74 days
+- 326 AB: Fifth Dark Storm, Duration: 23 days
+- 333 AB: Birth of Athesis, in the Sanctum Sortis
+- 349 AB: Sixth Dark Storm, Duration: 14 days
+- 349 AB: Seventh Dark Storm, Duration: 94 days
+- 355 AB: Eighth Dark Storm, Duration: 66 days
+- 396 AB: Ninth Dark Storm Destroys large parts of the northern kingdoms over 262 days, significantly weakening the Arch-God Kingdom and its forces
 - 397 AB: [Begin "Era of Eternal War"](/wiki/history/Calendar.md#eras)
 - 400 AB: The Eastern Empire declares war on the Arch-God Kingdom of Men
 - 409 AB: Spies of the Eastern Empire cause turmoil in Whitedrum, inciting people against the king. Lightfall
@@ -61,7 +61,7 @@ category: index
 - 413 AB: Battle of the Burning Plains: Defeat of the Eastern Empire forces in Kascar
 - 458 AB: Operation Wisp: The Arch-God Kingdom's invasion fleet fails to pass through the Keel Pass and suffers heavy losses 
 - 458 AB: Awakening of the Storm King in the Vast Waters
-- 461 AB: Heimatfall: Eastern Empire's invasion of the Arch-God Kingdom 
+- 461 AB: [Heimatfall](/wiki/history/events/Heimatfall.md): Eastern Empire's invasion of the Arch-God Kingdom 
 - 461 AB: Greenwood Battle
 - 461 AB: Ananya discovers the Forge of Time
 - 462 AB: Trivalon is completely conquered by the EE
