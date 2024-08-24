@@ -4,15 +4,15 @@ category: location
 
 # Grey Fields
 
-The Grey Fields are a stark and barely fertile Lordship located directly behind the Black Mountains in the Forelands.
+The Grey Fields are a stark and barely fertile Lordship located directly behind the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md) in the Forelands.
 
 ## Geography
 
-The name "Grey" Fields is not a misnomer. Despite their imposing size and seeming impenetrability, even the mighty Black Mountains cannot fully shield this land from the rot and corruption emanating from the Land of Abominations. Like a vile, death-bringing disease, this taint seeps through every tiny crack and crevice of the Black Mountains, slowly but inexorably poisoning the land beyond.
+The name "Grey" Fields is not a misnomer. Despite their imposing size and seeming impenetrability, even the mighty [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md) cannot fully shield this land from the rot and corruption emanating from the Land of Abominations. Like a vile, death-bringing disease, this taint seeps through every tiny crack and crevice of the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md), slowly but inexorably poisoning the land beyond.
 
 ### Impact the Conquest of the Forelands
 
-Due to the conquest of the Forelands in 64 BB, the last remnants of the Outcasts were eventually driven to the Grey Fields. Although many of them were killed in the process, some managed to escape their fate. Thus the majority of the people in the Grey Fields are descendants of the Outcasts and military personnel who were stationed there to protect the Black Mountains. 
+Due to the conquest of the Forelands in 64 BB, the last remnants of the Outcasts were eventually driven to the Grey Fields. Although many of them were killed in the process, some managed to escape their fate. Thus the majority of the people in the Grey Fields are descendants of the Outcasts and military personnel who were stationed there to protect the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md). 
 
 This has led to a unique culture in the Grey Fields, with a strong emphasis on self-reliance and survival in the face of adversity. The people of the Grey Fields are known for their resourcefulness and ingenuity, as well as their fierce independence.
 
@@ -30,6 +30,6 @@ Despite its inhospitable nature, the Grey Fields serve a crucial role in the def
 
 ## Politics
 
-Due to its location directly behind the Black Mountains, thus being a necessary passage for all supplies and reinforcements to the Bulwarks, the Grey Fields are a highly contested region. The lords of the Grey Fields must navigate a delicate political landscape, balancing the demands of the Arch-God Kingdom with the needs of their own people.
+Due to its location directly behind the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md), thus being a necessary passage for all supplies and reinforcements to the Bulwarks, the Grey Fields are a highly contested region. The lords of the Grey Fields must navigate a delicate political landscape, balancing the demands of the Arch-God Kingdom with the needs of their own people.
 
 Even though a small lordship often does not have the resources or means to defend itself politically, the Lords of the Grey Fields have never shied away from using their strategic position to their advantage. This notably includes the [Southern Border Watch](/wiki/geography/eides/forelands/Southern-Border-Watch.md).

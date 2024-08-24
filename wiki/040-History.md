@@ -31,10 +31,10 @@ category: index
 - 173 BB: Great Dimension Convergence
 
 ## Pre-Bulwark Era
-- 95 BB: Construction of the first fortifications in the Black Mountains
+- 95 BB: Construction of the first fortifications in the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md)
 - 64 BB: Conquest of the Borderlands
 - 18 BB: Battle of Darenfeld 18 BB
-- 17 BB: Design of the first Bulwark by Bartholomew Slater
+- 17 BB: Design of the first Bulwark by [Bartholomew Slater](/wiki/people/Bartholomew-Slater.md)
 
 ## Age of Bulwarks (AB)
 - 0 AB: Start of construction on the Bulwarks of the North

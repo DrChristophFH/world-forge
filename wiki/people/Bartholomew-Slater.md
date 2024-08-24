@@ -31,7 +31,7 @@ The Queen, impressed by Slater's work, commissioned not just one, but three grea
 
 ## Legacy
 
-Slater's Bulwarks proved to be the turning point in the war against the Abominations. They provided a nearly impenetrable defense line along the Black Mountains, significantly reducing the incursions into the kingdom's territories.
+Slater's Bulwarks proved to be the turning point in the war against the Abominations. They provided a nearly impenetrable defense line along the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md), significantly reducing the incursions into the kingdom's territories.
 
 The construction of the Bulwarks was a monumental task that spanned over two centuries. While Slater didn't live to see the completion of the last Bulwark in 242 AB, his designs and principles guided the entire project.
 
