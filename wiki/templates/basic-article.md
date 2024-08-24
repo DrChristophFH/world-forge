@@ -1,5 +1,5 @@
 ---
-category: "<CATEGORY>"
+category: template
 ---
 
 # Article Title
