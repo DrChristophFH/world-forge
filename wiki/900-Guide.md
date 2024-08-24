@@ -4,9 +4,7 @@ category: guide
 
 # Guide
 
-## Wiki
-
-### Working with Git
+## Working with Git
 
 Git is a distributed version control system that helps track changes in source code during software development. GitHub is a web-based platform that uses Git for version control and collaboration. To get started with Git and GitHub, we recommend the following resources:
 
@@ -24,15 +22,25 @@ For contributing to this project, we primarily use forks and pull requests (PRs)
 
 For a more detailed guide on forking and creating pull requests, see [GitHub's guide on forking projects](https://guides.github.com/activities/forking/).
 
-### Writing Articles
+## Writing Articles
 
-When writing articles for the wiki:
+Writing articles is the core activity of our wiki. Articles should be written in Markdown format. Markdown is a lightweight markup language with plain-text formatting syntax. It is easy to read and write and can be converted to HTML or other formats. For a quick reference on Markdown syntax, see [GitHub's Markdown guide](https://guides.github.com/features/mastering-markdown/).
 
-1. Place each file in the correct folder. If a suitable folder doesn't exist, create one.
-2. Ensure that each new article is referenced by at least one other note. This makes the new article visible and accessible within the wiki structure.
-3. Use meaningful file names that reflect the content of the article.
+### The right Place
 
-### Frontmatter
+Before writing a new article, make sure to check if the article already exists. This is best done by searching for what you want to write and looking in related articles. If it does exist, consider updating the existing article instead of creating a new one. If you are unsure about where to place your article, feel free to ask for help. 
+
+Generally the structure of the wiki is very open, though there are a few rules:
+
+- If there is a folder for grouping related articles under a topic that also has an article, that article should be at the same level as the folder. For example: `geography` has a folder `eides` for all articles of locations in Eides, but the article `Eides.md` should also be in the root of the `geography` folder like so: `geography/Eides.md`. This makes it straightforward to reference the main article of a topic. Where one can reference `geography/Eides.md` instead of `geography/eides/Eides.md`.
+
+### The right Name
+
+Article filenames should be capitalized and use hyphens to separate words. For example, an article about the "Arch-God Kingdom" should be named `Arch-God-Kingdom.md`. This makes it easier to reference articles in other articles and ensures consistency in naming. 
+
+In contrast all folders should be lowercase and use hyphens to separate words. For example, a folder for the "Arch-God Kingdom" should be named `arch-god-kingdom`.
+
+## Frontmatter
 
 Each note in our wiki requires a frontmatter section at the beginning of the file. The frontmatter is written in YAML and is enclosed between triple-dashes (`---`). Currently, we use the following frontmatter elements:
 
@@ -63,7 +71,7 @@ Please note that dates should be formatted as YYYY-MM-DD. All dates should be in
 
 Remember, consistent use of frontmatter helps in organizing and searching our wiki content effectively.
 
-### Category Hierarchy
+## Category Hierarchy
 
 - index
 - history
