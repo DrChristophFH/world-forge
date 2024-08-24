@@ -36,7 +36,7 @@ When writing articles for the wiki:
 
 Each note in our wiki requires a frontmatter section at the beginning of the file. The frontmatter is written in YAML and is enclosed between triple-dashes (`---`). Currently, we use the following frontmatter elements:
 
-1. `category`: A string indicating the category the article belongs to.
+1. `category`: A string indicating the category the article belongs to. Multiple categories can be specified by comma-separating them. The available categories are listed below.
 2. `date` or `date_range`: The date or date range relevant to the article content. This is optional and depends on the context of the article. Do not include dates if the article is not tied to a specific date or date range.
 
 Here's an example of how to format the frontmatter:
@@ -62,3 +62,18 @@ date_range:
 Please note that dates should be formatted as YYYY-MM-DD. All dates should be in [AB (Age of Bulwarks) format](/wiki/history/Calendar.md#suffix). It is allowed to only specify the year or the year and month if the exact date is unknown. For dates before the construction of the Bulwarks, prefix the date with a minus sign (e.g., -632 AB).
 
 Remember, consistent use of frontmatter helps in organizing and searching our wiki content effectively.
+
+### Category Hierarchy
+
+- index
+- history
+  - event
+- magic
+  - phenomenon
+- geography
+  - location
+  - kingdom
+- culture
+  - law
+  - language
+- biography

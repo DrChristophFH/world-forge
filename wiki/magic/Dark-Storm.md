@@ -1,5 +1,8 @@
 ---
 category: phenomenon
+date_range:
+  start: 286 AB
+  end: 397 AB
 ---
 
 # Dark Storm
