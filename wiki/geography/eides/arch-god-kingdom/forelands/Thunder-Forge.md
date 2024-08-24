@@ -4,7 +4,7 @@ category: location
 
 # Thunder Forge
 
-## In the Fire of [Eides](/wiki/geography/eides/Eides.md)
+## In the Fire of [Eides](/wiki/geography/Eides.md)
 
 Visible even from the Tidal Bridge, the Thunder Forge towers high atop the peaks of the vulcano Aldngor, powered by its fiery hot lava. Aldngor lies on Vughdoruhl, the largest island of the Forelands.
 

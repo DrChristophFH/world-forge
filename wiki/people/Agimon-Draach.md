@@ -12,7 +12,7 @@ Born: 325 AB
 Died: 481 AB
 Age: 156
 Occupation: Mage
-Location: [[Kingdom of the Guilds]], Wrogia, [Eides](/wiki/geography/eides/Eides.md)
+Location: [[Kingdom of the Guilds]], Wrogia, [Eides](/wiki/geography/Eides.md)
 
 ## Life
 
@@ -27,10 +27,10 @@ Only around 380 AB did he learn about the Guardians of the Three and that they k
 
 Unlike Draach, however, the Guardians of the Three quickly learned about his machinations during this time and secured themselves accordingly. This led to Draach continuing to search without real progress until 412 AB.
 
-With the appearance of the Tsar of Hell, however, the focus of the Guardians of the Three shifted strongly in this direction. It quickly became clear that the [[Tsar of Hell]] knew about the artifacts or at least sensed their presence and was drawn to them. Due to Draach's lack of progress, he had been somewhat lost sight of in recent years, and the focus had shifted more to the more important events on [Eides](/wiki/geography/eides/Eides.md), the Eternal War and its effects.
+With the appearance of the Tsar of Hell, however, the focus of the Guardians of the Three shifted strongly in this direction. It quickly became clear that the [[Tsar of Hell]] knew about the artifacts or at least sensed their presence and was drawn to them. Due to Draach's lack of progress, he had been somewhat lost sight of in recent years, and the focus had shifted more to the more important events on [Eides](/wiki/geography/Eides.md), the Eternal War and its effects.
 
 What Draach didn't know was that one of the artifacts, the Book, had already been lost for centuries and even the Guardians of the Three didn't know where it was or if it still existed. By chance, he discovered exactly this artifact in 415 AB.
 
 With the Book in his possession, it was much easier to learn more about the other two artifacts, although no less time-consuming. The localization spell he used to locate the Temple of the Hat and that of the Dice took over 30 years.
 
-By far not the most powerful sorcerer on [Eides](/wiki/geography/eides/Eides.md), the Book of Alternating Magic made Draach only slightly stronger than the greatest sorcerers of his time. However, with a major offensive, an army of animated black knights, and some henchmen, he managed to storm the Temple of the Hat in 477 AB and obtain the Hat. In the same breath, now many times more powerful than any other sorcerer and mage with the two artifacts, he teleported to the Temple of the Dice and stole it as well.
+By far not the most powerful sorcerer on [Eides](/wiki/geography/Eides.md), the Book of Alternating Magic made Draach only slightly stronger than the greatest sorcerers of his time. However, with a major offensive, an army of animated black knights, and some henchmen, he managed to storm the Temple of the Hat in 477 AB and obtain the Hat. In the same breath, now many times more powerful than any other sorcerer and mage with the two artifacts, he teleported to the Temple of the Dice and stole it as well.

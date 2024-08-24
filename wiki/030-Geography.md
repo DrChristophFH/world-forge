@@ -11,7 +11,7 @@ Our world is composed of seven distinct planes of existence, each with its own u
 <img src="/resources/maps/Planes of Existence.jpg" alt="The Seven Planes" style="width:100%;max-width:800px;"/>
 
 ### Eides - The Material Plane
-[Eides](/wiki/geography/eides/Eides.md) is the central plane, most familiar to mortals. It's home to humans, elves, dwarfs and other common races. This plane is suffused with arcane energy, making it the primary source of magical study and practice.
+[Eides](/wiki/geography/Eides.md) is the central plane, most familiar to mortals. It's home to humans, elves, dwarfs and other common races. This plane is suffused with arcane energy, making it the primary source of magical study and practice.
 
 ### Anoxis - The World of Blood
 A grotesque realm teeming with abominations, Anoxis pulses with the energy of life and corruption. Its landscape is as alien as it is horrifying, shaped by the whims of eldritch entities.

@@ -32,4 +32,4 @@ Despite its inhospitable nature, the Grey Fields serve a crucial role in the def
 
 Due to its location directly behind the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md), thus being a necessary passage for all supplies and reinforcements to the Bulwarks, the Grey Fields are a highly contested region. The lords of the Grey Fields must navigate a delicate political landscape, balancing the demands of the Arch-God Kingdom with the needs of their own people.
 
-Even though a small lordship often does not have the resources or means to defend itself politically, the Lords of the Grey Fields have never shied away from using their strategic position to their advantage. This notably includes the [Southern Border Watch](/wiki/geography/eides/forelands/Southern-Border-Watch.md).
+Even though a small lordship often does not have the resources or means to defend itself politically, the Lords of the Grey Fields have never shied away from using their strategic position to their advantage. This notably includes the [Southern Border Watch](/wiki/geography/eides/arch-god-kingdom/forelands/Southern-Border-Watch.md).

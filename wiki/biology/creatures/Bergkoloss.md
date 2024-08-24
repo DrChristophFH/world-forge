@@ -4,7 +4,7 @@ category: creature
 
 # Mountain Behemoth
 
-Mountain Behemoths are immense, living mountains. Their form and number of feet vary from specimen to specimen. They are the largest known living beings in [Eides](/wiki/geography/eides/Eides.md).
+Mountain Behemoths are immense, living mountains. Their form and number of feet vary from specimen to specimen. They are the largest known living beings in [Eides](/wiki/geography/Eides.md).
 
 ## History
 
