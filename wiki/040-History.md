@@ -32,7 +32,7 @@ category: index
 
 ## Pre-Bulwark Era
 - 95 BB: Construction of the first fortifications in the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md)
-- 64 BB: Conquest of the Borderlands
+- 64 BB: Conquest of the Forelands
 - 18 BB: Battle of Darenfeld 18 BB
 - 17 BB: Design of the first Bulwark by [Bartholomew Slater](/wiki/people/Bartholomew-Slater.md)
 

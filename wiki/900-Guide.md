@@ -80,7 +80,7 @@ Remember, consistent use of frontmatter helps in organizing and searching our wi
   - phenomenon
 - geography
   - location
-  - kingdom
+    - kingdom
 - culture
   - law
   - language
