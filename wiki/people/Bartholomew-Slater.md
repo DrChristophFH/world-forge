@@ -1,8 +1,8 @@
 ---
 category: biography
 date_range:
-  start: 95 BB
-  end: 242 AB
+  start: -41
+  end: 29
 ---
 
 # Bartholomew Slater

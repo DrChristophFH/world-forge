@@ -46,11 +46,10 @@ def walk_wiki(wiki_path, group_by_category=False):
 
 def main():
     parser = argparse.ArgumentParser(description="Count files and words in the wiki.")
+    parser.add_argument("wiki_path", help="Path to the wiki directory")
     parser.add_argument("--category", action="store_true", help="Group statistics by category")
     args = parser.parse_args()
     
-    args.wiki_path = "../wiki"
-
     if not os.path.isdir(args.wiki_path):
         print(f"Error: The path '{args.wiki_path}' is not a valid directory.")
         return

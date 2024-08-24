@@ -1,8 +1,8 @@
 ---
 category: location
 date_range:
-  start: 173 BB
-  end: 400 AB
+  start: -173
+  end: 400
 ---
 
 # Land of Abominations

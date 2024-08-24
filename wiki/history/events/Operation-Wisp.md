@@ -1,8 +1,8 @@
 ---
 category: event
 date_range:
-  start: 413 AB
-  end: 458 AB
+  start: 413
+  end: 458
 ---
 
 # Operation Wisp
