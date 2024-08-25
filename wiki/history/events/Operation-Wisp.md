@@ -15,7 +15,7 @@ Under the codename "Operation Wisp" the Arch-God Kingdom prepared a large-scale 
 
 Shortly after the Great Defeat of the Arch-God Kingdom in 413 AB in Kascar (Battle of the Burning Plains), the first plans for bringing about a quick end to the war were presented in the tactical high command of the Arch-God Royal Armed Forces. Relatively quickly, it was decided to implement a particularly unconventional plan by the young Shield General Gabriell Trenforth, a tactical command officer of the Northern Army Command.
 
-The plan consisted of a massive sea-side invasion of the Eastern Empire. Through intelligence, it was known that the Eastern Empire, despite its massive defeat, was prepared for an invasion via Kraikar. However, the sea invasion would not take place over the Local Seas, as there was a risk of being encircled from all sides, as both Pveil, Schaaftaal, and Peadara were allied with the Eastern Empire, as well as Aunarach and even Baherech, despite its official alliance with the Arch-God Kingdom. Therefore, the plan envisaged circumnavigating the Free Lands in the North via the Keel Pass.
+The plan consisted of a massive sea-side invasion of the Eastern Empire. Through intelligence, it was known that the Eastern Empire, despite its massive defeat, was prepared for an invasion via Kraikar. However, the sea invasion would not take place over the Local Seas, as there was a risk of being encircled from all sides, as both Pveil, Schaaftaal, and Peadara were allied with the Eastern Empire, as well as Aunarach and even Baherech, despite its official alliance with the Arch-God Kingdom. Therefore, the plan envisaged circumnavigating the Free Lands in the North via the Kielpass.
 
 ### Preparations
 
@@ -39,9 +39,9 @@ In the year 423, scout ships were sent out to reconnoiter the path of the invasi
 
 Countless other scout ships with false papers and plans were simultaneously sent out in all directions from almost all major ports and also some secret military ports. Some of them even had direct orders to be captured by ships of other kingdoms, including the Eastern Empire. The crew of these ships consisted of trained and battle-tested commando soldiers who specialized in escaping from enemy captivity.
 
-Passing the Keel Pass turned out to be far more difficult than initially thought. Due to the centuries-long irrelevance of the Keel Pass, there were no proper sea charts that provided information about the murderous underwater rock formations. Only a handful of locals who fished in this region could provide fragments of the necessary information, which often turned out to be wrong.
+Passing the Kielpass turned out to be far more difficult than initially thought. Due to the centuries-long irrelevance of the Kielpass, there were no proper sea charts that provided information about the murderous underwater rock formations. Only a handful of locals who fished in this region could provide fragments of the necessary information, which often turned out to be wrong.
 
-What was not known, however, was that the rock formations of the Keel Pass changed over time. This was not noticed during the reconnaissance trips, which would have devastating consequences for the invasion fleet. These changes were also unknown to the locals, as the corruption of the Land of Abominations had displaced the natural ice region that resided north of the Keel Pass before the Dimensional Convergence in 173 BB. Only in recent decades had this ice settled again, ensuring that the natural movement of the Keel Pass over the seasons occured again. The massive deviation from the prepared sea charts for the invasion is also due to the much longer storm season in the year 458 AB, which delayed the departure by almost two months. In addition to the changed rock formations, there were also icebergs, both above and under water and the like.
+What was not known, however, was that the rock formations of the Kielpass changed over time. This was not noticed during the reconnaissance trips, which would have devastating consequences for the invasion fleet. These changes were also unknown to the locals, as the corruption of the Land of Abominations had displaced the natural ice region that resided north of the Kielpass before the Dimensional Convergence in 173 BB. Only in recent decades had this ice settled again, ensuring that the natural movement of the Kielpass over the seasons occured again. The massive deviation from the prepared sea charts for the invasion is also due to the much longer storm season in the year 458 AB, which delayed the departure by almost two months. In addition to the changed rock formations, there were also icebergs, both above and under water and the like.
 
 ### Invasion Fleet
 
@@ -68,11 +68,11 @@ The Army Group New Haven took the leading role in the invasion, as it was best s
 
 ### Departure 458 AB
 
-### Keel Pass
+### Kielpass
 
 ### Survivors
 
-Only slightly less than 7 million men survived the Keel Pass. 4 million came through the Keel Pass intact and gather at a group of islands several hundred kilometers off the coast of Elestenid for a stocktaking. The rest of the 7 million survivors were scattered throughout the north around the Keel Pass.
+Only slightly less than 7 million men survived the Kielpass. 4 million came through the Kielpass intact and gather at a group of islands several hundred kilometers off the coast of Elestenid for a stocktaking. The rest of the 7 million survivors were scattered throughout the north around the Kielpass.
 
 #### In the North of the Free Lands
 
@@ -102,4 +102,4 @@ Highest ranking: General Amynedd Maylor
 
 #### Returners
 
-A handful of ships turned back in the chaos at the Keel Pass and sailed back home. Although their act could have been accused of cowardice, the value of the information brought by the returners was quickly recognized, and all were pardoned. Most of the officers and non-commissioned officers played a major role in the further course and became a central component of the leadership in the Arch-God Kingdom of Operation Wisp.
+A handful of ships turned back in the chaos at the Kielpass and sailed back home. Although their act could have been accused of cowardice, the value of the information brought by the returners was quickly recognized, and all were pardoned. Most of the officers and non-commissioned officers played a major role in the further course and became a central component of the leadership in the Arch-God Kingdom of Operation Wisp.
