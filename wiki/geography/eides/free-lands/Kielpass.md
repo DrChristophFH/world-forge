@@ -8,6 +8,8 @@ The Kielpass, is a treacherous body of water located between the Land of Abomina
 
 ## Geography and Navigation
 
+<img src="/resources/maps/Kielpass.jpg" alt="Eides" style="width: 100%;"/>
+
 The exact boundaries of the Kielpass are not well-defined, but it generally encompasses the waters that separate the northern coast of Grim from the southern shores of the Land of Abominations. The pass is characterized by its complex underwater topography, which includes numerous rock formations that pose significant hazards to maritime traffic.
 
 ## Historical Significance
