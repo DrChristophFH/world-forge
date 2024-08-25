@@ -16,7 +16,7 @@ The Arch-God Kingdom of Men is the most powerful and influential nation in the k
 
 Kingdoms:
 
-1. Forelands
+1. [Forelands](/wiki/geography/eides/arch-god-kingdom/Forelands.md)
 2. Hochcordt
 3. [Kingdom of Guilds](/wiki/geography/eides/arch-god-kingdom/Kingdom-of-Guilds.md)
 4. Fiendheim
