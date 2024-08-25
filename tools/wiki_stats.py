@@ -29,7 +29,12 @@ def walk_wiki(wiki_path, group_by_category=False):
     total_words = 0
     category_stats = defaultdict(lambda: {"files": 0, "words": 0})
     
-    for root, dirs, files in os.walk(wiki_path):
+    unwanted_dirs = ['templates']
+    
+    for root, dirs, files in os.walk(wiki_path, topdown=True):
+        # Skip unwanted directories
+        dirs[:] = [d for d in dirs if d not in unwanted_dirs]
+        
         for file in files:
             if file.endswith('.md'):
                 file_path = Path(root) / file

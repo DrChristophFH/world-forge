@@ -80,7 +80,12 @@ def search_wiki_by_date(wiki_path: str, start_date: FantasyDate, end_date: Fanta
     """Search the wiki for articles within the specified date range."""
     results = []
     
-    for root, _, files in os.walk(wiki_path):
+    unwanted_dirs = ['templates']
+    
+    for root, dirs, files in os.walk(wiki_path, topdown=True):
+        # Skip unwanted directories
+        dirs[:] = [d for d in dirs if d not in unwanted_dirs]
+        
         for file in files:
             if file.endswith('.md'):
                 file_path = Path(root) / file

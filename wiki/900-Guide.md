@@ -40,6 +40,10 @@ Article filenames should be capitalized and use hyphens to separate words. For e
 
 In contrast all folders should be lowercase and use hyphens to separate words. For example, a folder for the "Arch-God Kingdom" should be named `arch-god-kingdom`.
 
+### The right Content
+
+Writing an article can be hard, but there is a nice starting point for common article types. You can find templates for different article types in the `wiki/templates` folder. These templates are a good starting point for your article and can be copied and pasted into your new article file.
+
 ## Frontmatter
 
 Each note in our wiki requires a frontmatter section at the beginning of the file. The frontmatter is written in YAML and is enclosed between triple-dashes (`---`). Currently, we use the following frontmatter elements:
