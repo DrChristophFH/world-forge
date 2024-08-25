@@ -25,8 +25,8 @@ In 17 BB, after months of collaboration with renowned architects, Slater present
 
 The Queen, impressed by Slater's work, commissioned not just one, but three great Bulwarks:
 
-1. The Bulwark of the Gods in the west
-2. The Bulwark of the Titans in the north
+1. The Bulwark of Gods in the west
+2. The Bulwark of Titans in the north
 3. The Bulwark of Darkness in the east
 
 ## Legacy

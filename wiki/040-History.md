@@ -32,14 +32,14 @@ category: index
 
 ## Pre-Bulwark Era
 - 95 BB: Construction of the first fortifications in the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md)
-- 64 BB: Conquest of the Forelands
+- 64 BB: Conquest of the [Forelands](/wiki/geography/eides/arch-god-kingdom/Forelands.md)
 - 18 BB: Battle of Darenfeld 18 BB
 - 17 BB: Design of the first Bulwark by [Bartholomew Slater](/wiki/people/Bartholomew-Slater.md)
 
 ## Age of Bulwarks (AB)
 - 0 AB: Start of construction on the Bulwarks of the North
 - 93 AB: [Begin "Era of Light"](/wiki/history/Calendar.md#eras)
-- 242 AB: Completion of the last Bulwark Bulwark of the Gods
+- 242 AB: Completion of the last Bulwark Bulwark of Gods
 - 286 AB: [Begin "Era of Storms"](/wiki/history/Calendar.md#eras)
 - 286 AB: First Dark Storm, Duration: 15 days
 - 297 AB: Second Dark Storm, Duration: 27 days
