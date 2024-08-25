@@ -6,6 +6,10 @@ category: plane-of-existence
 
 <img src="/resources/maps/Eides.jpg" alt="Eides" style="width: 100%;"/>
 
+## Land of Abominations
+
+The [Land of Abominations](/wiki/geography/eides/Land-of-Abominations.md) lies to the north of the Arch-God Kingdom. It used to be a relatively remote and unexplored region, full of snow and ice. With the Dimension Convergence in 173 BB though, the land was corrupted and twisted into a nightmarish realm of monsters and horrors.
+
 ## Arch-God Kingdom of Men
 
 The Arch-God Kingdom of Men is the most powerful and influential nation in the known lands of Eides. It consists of 10 kingdoms, each with its own king, all ruled over by the Arch-God King who reigns in Solvalon, the capital kingdom.
@@ -14,7 +18,7 @@ Kingdoms:
 
 1. Forelands
 2. Hochcordt
-3. Kingdom of Guilds
+3. [Kingdom of Guilds](/wiki/geography/eides/arch-god-kingdom/Kingdom-of-Guilds.md)
 4. Fiendheim
 5. Kharis
 6. Bivalon
@@ -44,7 +48,7 @@ The Woodlands are a mysterious and largely unexplored region, home to strange cr
 
 ## The Free Lands
 
-The Free Lands are a collection of independent territories that have agreed to open borders and free trade, while maintaining their individual sovereignty.
+The [Free Lands](/wiki/geography/eides/Free-Lands.md) are a collection of independent territories that have agreed to open borders and free trade, while maintaining their individual sovereignty.
 
 - Grim
 - Wrogia

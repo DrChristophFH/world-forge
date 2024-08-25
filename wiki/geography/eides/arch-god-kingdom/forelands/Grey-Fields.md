@@ -12,7 +12,7 @@ The name "Grey" Fields is not a misnomer. Despite their imposing size and seemin
 
 ### Impact the Conquest of the Forelands
 
-Due to the conquest of the Forelands in 64 BB, the last remnants of the Outcasts were eventually driven to the Grey Fields. Although many of them were killed in the process, some managed to escape their fate. Thus the majority of the people in the Grey Fields are descendants of the Outcasts and military personnel who were stationed there to protect the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md). 
+Due to [the conquest of the Forelands in 64 BB](/wiki/geography/eides/Land-of-Abominations.md#the-conquest-of-the-forelands), the last remnants of the Outcasts were eventually driven to the Grey Fields. Although many of them were killed in the process, some managed to escape their fate. Thus the majority of the people in the Grey Fields are descendants of the Outcasts and military personnel who were stationed there to protect the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md). 
 
 This has led to a unique culture in the Grey Fields, with a strong emphasis on self-reliance and survival in the face of adversity. The people of the Grey Fields are known for their resourcefulness and ingenuity, as well as their fierce independence.
 
@@ -33,3 +33,11 @@ Despite its inhospitable nature, the Grey Fields serve a crucial role in the def
 Due to its location directly behind the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md), thus being a necessary passage for all supplies and reinforcements to the Bulwarks, the Grey Fields are a highly contested region. The lords of the Grey Fields must navigate a delicate political landscape, balancing the demands of the Arch-God Kingdom with the needs of their own people.
 
 Even though a small lordship often does not have the resources or means to defend itself politically, the Lords of the Grey Fields have never shied away from using their strategic position to their advantage. This notably includes the [Southern Border Watch](/wiki/geography/eides/arch-god-kingdom/forelands/Southern-Border-Watch.md).
+
+### Relations with the other Lordships
+
+The Grey Fields have a complicated relationship with the other Lordships of the Forelands. Especially with Trollfre and Letren are the relations tense. 
+
+Letren, being the wealthiest Lordship of the Forelands and having the capital of the Forelands, often tried to keep the Grey Fields politically weak and never really accepted the Grey Fields as a full-fledged Lordship. 
+
+Trollfre, on the other hand, has always been a thorn in the side of the Grey Fields. Especially after it had used its ties to the then Arch-God King to get the position as the main transshipment point for the supply lines to the Bulwarks. This has led to a long-standing rivalry between the two Lordships, which has often escalated into closed and open conflicts.

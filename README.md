@@ -10,6 +10,8 @@ Bulwarks of the North (BotN) is a collaborative fantasy world-building project c
 
 From the towering fortresses guarding the north to hidden valleys teeming with magical creatures, BotN invites you to explore a world forged by many minds. Whether you're a writer, artist, or world-building enthusiast, there's a place for you in crafting the legends and landscapes of the Bulwarks of the North. Dive into our wiki to discover the wonders we've created together and find out how you can leave your mark on this ever-growing fantasy realm.
 
+Join us on our [Discord server](https://discord.gg/6Bvycf2g4G) to connect with fellow world-builders, share your ideas, and contribute to the ongoing creation of the Bulwarks of the North.
+
 ## Index Categories 
 
 - [Biology](/wiki/010-Biology.md)

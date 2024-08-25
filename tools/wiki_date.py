@@ -154,3 +154,7 @@ Note:
 
 if __name__ == "__main__":
     main()
+    
+    
+# TODO: Allow to filter based on categories or tags
+# TODO: Open ended or open started date ranges
