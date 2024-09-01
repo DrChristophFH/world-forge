@@ -12,7 +12,13 @@ From the towering fortresses guarding the north to hidden valleys teeming with m
 
 Join us on our [Discord server](https://discord.gg/6Bvycf2g4G) to connect with fellow world-builders, share your ideas, and contribute to the ongoing creation of the Bulwarks of the North.
 
-## Index Categories 
+## The Wiki
+
+These are the main categories of the BotN world. Each category contains a wealth of information about the various aspects of the world, from its flora and fauna to its history and magic systems. Dive into the wiki to explore the depths of the Bulwarks of the North and uncover the secrets that lie within.
+
+**For a quick start into the world:** I recommend starting at the [Introduction](/wiki/000-Introduction.md) page.
+
+Otherwise you can explore the following categories:
 
 - [Biology](/wiki/010-Biology.md)
 - [Culture](/wiki/020-Culture.md)
