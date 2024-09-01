@@ -78,3 +78,8 @@ category: index
 - 485 AB: Merengor and his Shadow Army annihilate Tevv
 - 489 AB: Merengor and his Shadow Army destroy the Chasm Fields
 - 496 AB: Merengor and his Shadow Army defeat and destroy Snas Dria Vi
+
+
+## Lore
+
+The short story ["Storm Guardian Company"](/wiki/history/stories/SS-Storm-Guardian-Company.md) tells the tale of the 5th Platoon of the 1st Storm Guardian Company during the Sixth Dark Storm. The story is a testament to the bravery and sacrifice of the soldiers who protect the realms of humanity.

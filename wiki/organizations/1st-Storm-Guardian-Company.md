@@ -20,6 +20,8 @@ The primary responsibilities of the 1st Storm Guardian Company include:
 
 The company is divided into eight platoons, each consisting of approximately 70 soldiers. These platoons operate on a monthly rotation cycle, ensuring constant vigilance and fresh troops at the [Storm Watch](/wiki/geography/eides/land-of-abominations/Storm-Watch.md). This rotation system also allows for regular supply runs and personnel changes between the Bulwark of the Gods and the [Storm Watch](/wiki/geography/eides/land-of-abominations/Storm-Watch.md).
 
+During the time between 335 AB and 349 AB, the one-month rotation cycle was temporarily increased to a three-month cycle due to the lack of available personnel and the long span since the last Dark Storm.
+
 ## Emblem
 
 The emblem of the 1st Storm Guardian Company is a compass with a lightning bolt needle pointing north. This symbol represents their unwavering commitment to facing the storms and protecting the realms of humanity.
