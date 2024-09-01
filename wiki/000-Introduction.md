@@ -34,7 +34,7 @@ They tower over the Black Mountains, their walls facing the **Land of Abominatio
 
 The Eastern Empire is not the only threat to the Arch-God Kingdom. The **Dark Storms** are a recurring magical phenomenon that brings chaos and destruction to the lands of Eides. These storms produce powerful dark magic that can lay waste to entire cities and armies. 
 
-In their quest to protect the kingdom, the Arch-God Kingdom has gone to great lengths trying to understand and combat these storms. The most notable of these efforts is the **Storm Watch**, a lone tower more northern than any human structure, built to observe and study the Dark Storms. Guarded by the **1st Storm Guardian Company**, an elite group of soldiers, the scholars of the Storm Watch work tirelessly to unlock the secrets of the storms and find a way to stop them.
+In their quest to protect the kingdom, the Arch-God Kingdom has gone to great lengths trying to understand and combat these storms. The most notable of these efforts is the [**Storm Watch**](/wiki/geography/eides/land-of-abominations/Storm-Watch.md), a lone tower more northern than any human structure, built to observe and study the Dark Storms. Guarded by the [**1st Storm Guardian Company**](/wiki/organizations/1st-Storm-Guardian-Company.md), an elite group of soldiers, the scholars of the Storm Watch work tirelessly to unlock the secrets of the storms and find a way to stop them.
 
 ## Join the Adventure
 

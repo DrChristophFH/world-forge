@@ -24,7 +24,7 @@ The primary function of the Storm Watch is twofold:
 
 ### Military Presence
 
-The Storm Watch is permanently manned by at least one platoon from the 1st Storm Guardians Company. These elite soldiers are tasked with protecting the scholars and maintaining the fortress's defenses against both natural and supernatural threats.
+The Storm Watch is permanently manned by at least one platoon from the [1st Storm Guardian Company](/wiki/organizations/1st-Storm-Guardian-Company.md). These elite soldiers are tasked with protecting the scholars and maintaining the fortress's defenses against both natural and supernatural threats.
 
 ### Scholarly Contingent
 
@@ -36,7 +36,7 @@ A team of scholars from the Institute of Storm Studies is always present at the 
 
 ### Rotation and Tour of Duty
 
-Under normal circumstances, a company serves a six-month tour of duty at the Storm Watch. This rotation helps maintain mental and physical readiness in the face of the constant dangers and harsh conditions.
+Under normal circumstances, a platoon serves a one-month tour of duty at the Storm Watch. This rotation helps maintain mental and physical readiness in the face of the constant dangers and harsh conditions. In contrast, scholars typically serve longer terms, with some dedicating their entire careers to the study of the Dark Storms.
 
 ## Notable Personnel
 
