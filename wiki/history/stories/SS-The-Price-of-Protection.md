@@ -2,7 +2,13 @@
 
 The old man's gnarled hands traced the names etched into the massive stone board, his fingers lingering on one in particular: Elowen. He turned to face the group of wide-eyed apprentices gathered before him, the harsh wind of the Black Mountains whipping at their cloaks.
 
-"You want to know about the Bulwarks?" Thorne's voice was gruff, weathered by years of shouting over the din of construction. "Then you need to know about her. About all of them." He gestured to the thousands of names behind him, each a silent testimony to the price paid for the realm's protection.
+"You want to know about the Bulwarks?"
+
+Thorne's voice was gruff, weathered by years of shouting over the din of construction. 
+
+"Then you need to know about her. About all of them."
+
+He gestured to the thousands of names behind him, each a silent testimony to the price paid for the realm's protection.
 
 The apprentices huddled closer, eager to hear the tale. Thorne's mind drifted back to that day, nearly five decades ago, when he first laid eyes on Elowen...
 
@@ -14,13 +20,17 @@ As they reached the top, a collective gasp rippled through the wagon. Elowen's b
 
 Before them stretched a scene of organized chaos on a scale beyond imagining. The Bulwark rose from the mountainside like a titan half-emerged from the earth. Scaffolding clung to its partially completed walls, swarming with workers that looked no bigger than ants from this distance. Cranes towered overhead, swinging massive blocks of stone through the air with ponderous grace.
 
-"By the gods," someone whispered behind her. Elowen silently agreed. In all her years as a master stonemason, she'd never seen anything like this. The great cathedrals and palaces of her home kingdom seemed like children's toy blocks in comparison.
+"By the gods," someone whispered behind her. 
+
+Elowen silently agreed. In all her years as a master stonemason, she'd never seen anything like this. The great cathedrals and palaces of her home kingdom seemed like children's toy blocks in comparison.
 
 The wagon lurched forward, descending into the vast construction site. As they drew closer, the true scale of the project became even more apparent. The noise was overwhelming – a cacophony of hammering, shouting, and the deep groan of stone against stone.
 
 The wagon rolled to a stop amidst a sea of tents and hastily constructed barracks. A harried-looking man with a clipboard directed them to deposit their belongings quickly.
 
-"Move it!" he shouted. "Stow your things and assemble outside in five minutes!"
+"Move it!" he shouted. 
+
+"Stow your things and assemble outside in five minutes!"
 
 Elowen hefted her pack and strode towards the indicated barracks. The structure was poorly built, with gaps in the walls and a roof that looked like it would leak at the first sign of rain. Around her, fellow draftees grumbled and complained.
 
@@ -30,13 +40,21 @@ Elowen said nothing, her face impassive as she claimed a bunk and stowed her mea
 
 Outside, they were herded into formation. A tall, lean man with piercing eyes and an air of authority approached. This, Elowen guessed, must be one of the overseers.
 
-"I am Castor," he announced, his voice carrying easily over the din of construction. "Overseer of this work group. You are here because the realm needs you. The Bulwark is more than just a wall; it is our shield against the horrors that lurk in the cursed lands beyond."
+"I am Castor," he announced, his voice carrying easily over the din of construction. 
 
-Castor paced before them, his gaze sweeping over the new arrivals. "Some of you may think you're skilled," he continued, a hint of derision in his tone. "Let me assure you, whatever paltry experience you have building garden walls or quaint village homes is nothing compared to the task before you."
+"Overseer of this work group. You are here because the realm needs you. The Bulwark is more than just a wall; it is our shield against the horrors that lurk in the cursed lands beyond."
+
+Castor paced before them, his gaze sweeping over the new arrivals. 
+
+"Some of you may think you're skilled," he continued, a hint of derision in his tone. 
+
+"Let me assure you, whatever paltry experience you have building garden walls or quaint village homes is nothing compared to the task before you."
 
 Elowen's jaw tightened, but she remained silent, her eyes fixed ahead.
 
-"You will be assigned to existing teams, each led by a foreman," Castor explained. "They will be your immediate supervisors. Work hard, follow orders, and you might survive long enough to see this Bulwark completed."
+"You will be assigned to existing teams, each led by a foreman," Castor explained. 
+
+"They will be your immediate supervisors. Work hard, follow orders, and you might survive long enough to see this Bulwark completed."
 
 As Castor began calling out names and assignments, Elowen noticed a group of workers on their break nearby. They lounged against stacks of stone, watching the proceedings with amused expressions. Every time Castor assigned someone to a team led by someone named Maevis, the workers would burst into laughter.
 
@@ -46,7 +64,9 @@ Elowen frowned, a sense of unease growing in her stomach. What was so funny abou
 
 The workers erupted in laughter once more. Elowen's frown deepened as she stepped forward, along with three other new arrivals who had also been assigned to Maevis's team.
 
-Castor pointed them towards a section of the construction site. "Maevis's team is working on the eastern face. Head over there and report to him."
+Castor pointed them towards a section of the construction site. 
+
+"Maevis's team is working on the eastern face. Head over there and report to him."
 
 As Elowen and her new teammates walked past the laughing workers, she caught snippets of their conversation.
 
@@ -58,45 +78,77 @@ Elowen's unease grew with each step. As they approached their assigned area, the
 
 The section was in chaos. Workers milled about aimlessly, some halfheartedly chipping at stones while others argued over tools. And there, sitting on a boulder with his head hanging low, was a thin, elderly man. His eyes, milky white, stared sightlessly into the distance.
 
-Taking a deep breath, she stepped forward. "Excuse me," she called out to the nearest worker. "We're new assignees. Where should we start?"
+Taking a deep breath, she stepped forward. 
 
-The worker shrugged. "Anywhere, I suppose. Just find a spot and start working."
+"Excuse me," she called out to the nearest worker. 
+
+"We're new assignees. Where should we start?"
+
+The worker shrugged. 
+
+"Anywhere, I suppose. Just find a spot and start working."
 
 Elowen's frustration mounted. This was no way to build a wall, let alone a Bulwark meant to protect the entire realm. She looked around, trying to spot someone who might be in charge.
 
 "Who's the foreman here?" she asked the worker who had just shrugged her off.
 
-The man jerked his thumb towards the elderly man with milky white eyes, sitting alone on a boulder. "Good luck getting anything out of him, though."
+The man jerked his thumb towards the elderly man with milky white eyes, sitting alone on a boulder. 
+
+"Good luck getting anything out of him, though."
 
 Elowen looked at the thin old man in disbelieve. Before she could decide whether to approach him, she noticed her fellow new arrivals starting to disperse.
 
 "Where are you going?" she called out to them.
 
-One of them shrugged. "To find something to do, I guess. No point standing around here."
+One of them shrugged. 
+
+"To find something to do, I guess. No point standing around here."
 
 Elowen watched helplessly as they wandered off in different directions, leaving her alone amidst the chaos. She took a deep breath, steeling herself. If no one was going to give her direction, she'd have to find her own.
 
-Scanning the work area, she spotted a section of wall that looked particularly shoddy. "Might as well start there," she muttered to herself.
+Scanning the work area, she spotted a section of wall that looked particularly shoddy. 
+
+"Might as well start there," she muttered to herself.
 
 As she approached the wall, Elowen quickly realized she'd need specific tools to properly address the poor stonework. She made her way to a group of workers arguing over a pile of equipment.
 
-"Excuse me," she interrupted their bickering. "I need a pointer, a toothed chisel, and a dummy. Can you tell me where I might find them?"
+"Excuse me," she interrupted their bickering. 
 
-# The Price of Protection (Refined Continuation)
+"I need a pointer, a toothed chisel, and a dummy. Can you tell me where I might find them?"
 
-The workers exchanged glances before erupting into laughter. "A pointer? A toothed chisel?" one wheezed. "Lady, you're dreaming. We haven't seen tools like that in months."
+The workers exchanged glances before erupting into laughter. 
 
-Elowen's brow furrowed. "What do you mean?"
+"A pointer? A toothed chisel?" one wheezed. 
 
-Another worker shrugged. "We make do with what we have. Which is this." He held up a battered, all-purpose chisel.
+"Lady, you're dreaming. We haven't seen tools like that in months."
 
-"But why?" Elowen pressed. "How can you perform precise work without proper tools?"
+Elowen's brow furrowed. 
 
-The first worker snorted. "Oh, ask the foreman. He's supposed to request supplies. But old Maevis there?" He nodded towards the blind man. "Hasn't put in a request for anything in ages. We've asked, believe me. It's like talking to a stone wall."
+"What do you mean?"
+
+Another worker shrugged. 
+
+"We make do with what we have. Which is this."
+
+He held up a battered, all-purpose chisel.
+
+"But why?" Elowen pressed. 
+
+"How can you perform precise work without proper tools?"
+
+The first worker snorted. 
+
+"Oh, ask the foreman. He's supposed to request supplies. But old Maevis there?"
+
+He nodded towards the blind man. 
+
+"Hasn't put in a request for anything in ages. We've asked, believe me. It's like talking to a stone wall."
 
 Elowen's gaze drifted back to Maevis, her frustration now mingled with confusion and a hint of pity. How had things deteriorated to this point? And how was anyone expected to build a structure to last the ages under these conditions?
 
-She turned back to the workers. "So where do I get such a chisel?"
+She turned back to the workers. 
+
+"So where do I get such a chisel?"
 
 "You'll have to find one that's not in use. Oh, and not broken. Good luck with that."
 
@@ -108,13 +160,23 @@ With determination, she approached Maevis. The elderly man's clouded eyes stared
 
 To her surprise, Maevis lifted his head, turning slightly in her direction. Though his eyes couldn't focus on her, there was an alertness to his posture that hadn't been there before.
 
-"I'm Elowen, newly assigned to your team," she continued, encouraged by his response. "I need to discuss the state of our tools and-"
+"I'm Elowen, newly assigned to your team," she continued, encouraged by his response. 
 
-"Ha! Trying to talk to old Maevis, are you?" A burly worker passing by interrupted with a harsh laugh. "Might as well try having a conversation with one of these rocks, girl. You'll get more sense out of it!"
+"I need to discuss the state of our tools and-"
+
+"Ha! Trying to talk to old Maevis, are you?"
+
+A burly worker passing by interrupted with a harsh laugh.
+
+"Might as well try having a conversation with one of these rocks, girl. You'll get more sense out of it!"
 
 Maevis's head slumped down again, his brief moment of engagement evaporating like morning dew under a harsh sun.
 
-"Thank you for your input," she said coolly to the laughing worker, then turned back to Maevis. "As I said, the tools are..." she trailed off, realizing she had lost his attention. "I see," she muttered to herself.
+"Thank you for your input," she said coolly to the laughing worker, then turned back to Maevis. 
+
+"As I said, the tools are..." she trailed off, realizing she had lost his attention. 
+
+"I see," she muttered to herself.
 
 With Maevis unresponsive once more, Elowen set off in search of tools. The work site was a maze of discarded equipment, half-finished stonework, and clustered groups of idle workers. After what felt like hours but was likely only thirty minutes, she finally stumbled upon a chisel and hammer.
 
@@ -124,7 +186,9 @@ As she repaired her tools, Elowen's mind raced. The disarray around her wasn't j
 
 With her implements as repaired as possible, Elowen stood, stretching muscles already sore from the long journey. She scanned the work site, locating the section of wall she'd noticed earlier.
 
-"Right," she muttered, hefting her newly repaired hammer. "Let's see what we can do to fix this mess."
+"Right," she muttered, hefting her newly repaired hammer. 
+
+"Let's see what we can do to fix this mess."
 
 Approaching the wall, she noticed other workers glancing her way, some with curiosity, others with thinly veiled amusement. Elowen paid them no mind, focusing on the task at hand.
 
@@ -140,27 +204,73 @@ It took all her expertise to make the wall look as it was supposed to. Carefully
 
 After hours of work, she finally stepped back to survey her progress. Only then did she realize that what had felt like the whole wall was only a small section of it. The structure was massive, and she had barely made a dent in it. Taking a deep breath, she steeled herself for the long road ahead. It was a start, she reminded herself. And one had to admit, the section she had worked on looked sturdy and well-crafted.
 
-"Well done," a voice said behind her. Elowen turned to see a bearded man approaching. "Now, if you keep this pace up, you'll finish the wall that's already there in a few months." He burst into laughter.
+"Well done," a voice said behind her. 
 
-Elowen's eyes narrowed. "And who might you be?" she asked, her tone cool. "The local jester surely has to be more entertaining." She turned her back on the stranger, ignoring his stupid grin.
+Elowen turned to see a bearded man approaching. 
 
-The bearded man's grin faltered slightly at Elowen's dismissal, but he pressed on, undeterred. "The name's Thorne, girl. Foreman Thorne. And you'd do well to show some respect."
+"Now, if you keep this pace up, you'll finish the wall that's already there in a few months."
 
-Elowen turned back, her eyebrow raised. "Respect is earned, Foreman Thorne. I've yet to see anything worthy of it here."
+He burst into laughter.
 
-Thorne's face reddened. "Big words from someone who's been here less than a day. You think you can waltz in here and fix everything with your fancy stonework?" He gestured dismissively at her completed section. "This isn't some quaint village project. This is the Bulwark, girl. It'll take more than pretty masonry to make a difference here."
+Elowen's eyes narrowed.
 
-"And what exactly are you doing to make that difference, Foreman?" Elowen shot back, her voice level but her eyes challenging.
+"And who might you be?" she asked, her tone cool. 
 
-Thorne opened his mouth, then closed it again. He hadn't expected such pushback. "Just... just don't get too comfortable," he finally muttered, his earlier bravado deflating. "You'll learn soon enough how things work around here."
+"The local jester surely has to be more entertaining."
 
-As Thorne walked away, his steps a little quicker than necessary, Elowen allowed herself a small smile. It wasn't much, but it felt good to stand her ground.
+She turned her back on the stranger, ignoring his stupid grin.
 
-The satisfaction was short-lived, however, as her stomach growled loudly, reminding her that she hadn't eaten since morning. The sun was dipping low on the horizon, painting the sky in brilliant oranges and reds. It was time to find some food.
+The bearded man's grin faltered slightly at Elowen's dismissal, but he pressed on, undeterred.
+
+"The name's Thorne, girl. Foreman Thorne. And you'd do well to show some respect."
+
+Elowen turned back, her eyebrow raised.
+
+"Respect is earned, Foreman Thorne. I've yet to see anything worthy of it here."
+
+Thorne's face reddened.
+
+"Big words from someone who's been here less than a day. You think you can waltz in here and impress someone with your fancy stonework?"
+
+He gestured dismissively at her completed section.
+
+"This isn't some village project. This is the Bulwark of Titans, girl. It'll take more than pretty masonry to make a difference here."
+
+"And what exactly are you doing to make that difference, Foreman?"
+
+Elowen shot back, her voice level but her eyes challenging. Thorne opened his mouth, then closed it again. He hadn't expected such pushback.
+
+"What do you think who built the ground you're standing on?"
+
+Thorne gladly accepted her challenging gaze. A barely noticeable head shake escaped Elowen when she realized that she just gave him the opening he was looking for.
+
+"Who do you think built the western counterforts?"
+
+Thorne's voice was rising, his eyes gleaming with pride.
+
+"Come on, take a guess? No? I'll tell you. It was my team."
+
+She could see the smug satisfaction in his eyes. Elowen's jaw clenched, but she held her tongue.
+
+"You know what your marvelous team did in the same time? Shift a pile of wood from one place to another and call it barracks."
+
+Thorne's voice was dripping with disdain and superiority. He saw the anger in Elowen's eyes and reveled in it.
+
+"Exactly, if it rains on your head tonight, you'll know who to thank."
+
+Elowen's fists clenched at her sides, her nails digging into her palms. She wanted to lash out, to put this arrogant scumbag in his place. But she knew that would only play into his hands. Instead, she forced herself to take a deep breath, to calm the storm raging inside her.
+
+"Thank you for the information, Foreman Thorne," she said through gritted teeth.
+
+"I'll keep that in mind."
+
+With that, she turned on her heel and walked away, her jaw set in a tight line. Thorne watched her go, a smug smile playing on his lips. He'd gotten under her skin, and he knew it.
+
+Elowen hadn't eaten since morning, a fact she was reminded when her stomach began a loud song of protest as she descended the construction site. The sun was dipping low on the horizon, painting the sky in brilliant oranges and reds. It was time to find some food.
 
 Elowen approached a group of workers who were packing up their tools for the day. "Excuse me," she called out, "could you tell me where meals are served?"
 
-One of the workers, a weather-beaten woman with kind eyes, pointed towards a large tent in the distance. "Head over there," she said. "They should be serving dinner soon. Better hurry if you want to beat the rush."
+One of the workers, a weather-beaten woman with kind eyes, pointed towards a large tent in the distance. "Head over there," she said. "They are serving. Better hurry if you want to beat the rush."
 
 Thanking her, Elowen made her way to the tent. As she drew closer, savory aromas wafted towards her, making her mouth water. She joined the growing line of workers, all of them looking as tired and hungry as she felt.
 
@@ -172,12 +282,19 @@ Finding a seat at one of the long tables, Elowen dug in, savoring each bite. The
 
 "Aye," another agreed. "Say what you will about this place, but you can't fault the grub."
 
-Elowen's brow furrowed as she considered this unexpected luxury. The quality and variety of the meal must cost a fortune to serve every day, especially considering the number of workers at the site. It seemed at odds with the decrepit state of the actual construction - the very reason they were all here.
+Elowen's brow furrowed as she considered this unexpected luxury. The quality and variety of the meal must cost a fortune to serve every day, especially considering the number of workers at the site. It seemed at odds with the decrepit state of some parts of the actual construction - the very reason they were all here in the first place.
 
-As she finished her meal, Elowen's mind was buzzing with questions. How could they afford such extravagant meals when they couldn't even provide proper tools for the workers? Why was so much effort put into feeding the workforce, while the Bulwark itself languished in a state of disrepair?
+As she finished her meal, Elowen's mind was buzzing with questions. The quality of the food and the efficiency of some teams, like Thorne's, stood in stark contrast to the disorganized mess she'd witnessed in Maevis's section. How could such disparity exist within the same project? More puzzling still, why hadn't anyone addressed these glaring issues?
 
-The contradiction nagged at her. There was more going on here than met the eye, and Elowen was determined to get to the bottom of it. But for now, with a full stomach and aching muscles, she knew she needed rest. Tomorrow would bring new challenges, and she needed to be ready.
+The contradiction nagged at her as she cleared her plate. It seemed inconceivable that those in charge would allow such inefficiency to persist, especially on a project of this magnitude. The Bulwark was meant to be their shield against the horrors beyond, yet parts of it languished in a state of neglect and mismanagement.
 
-As she made her way back to her assigned barracks, Elowen cast one last look at the partially built Bulwark, its unfinished walls looming in the twilight. Whatever was going on here, whatever forces were at play, she would uncover the truth. And maybe, just maybe, she could help turn this chaotic mess into the formidable defense it was meant to be.
+With a sigh, Elowen rose from the table. The day's labor and these perplexing thoughts had left her exhausted. She made her way back to the barracks, her muscles aching with each step.
 
-With that resolve firmly in mind, Elowen entered the barracks, ready to face whatever the next day might bring.
+The wooden structure loomed before her, a testament to the very inefficiency she'd been pondering. Thorne's words echoed in her mind as she pushed open the creaking door. The interior was dim and drafty, with narrow cots lined up in rows.
+
+Finding her assigned bunk, Elowen sank onto the thin mattress. She could hear the soft snores and mumbles of her fellow workers, some already deep in sleep after their long day.
+
+As she lay there, staring at the rough-hewn beams above, Elowen's mind continued to churn. There had to be a reason for the stark differences she'd observed. Was it simply a matter of competent leadership versus incompetent? Or was there something else at play?
+
+These questions swirled in her mind, but exhaustion soon overtook her curiosity. Her eyelids grew heavy, and before long, Elowen drifted off into a fitful sleep, her dreams filled with unfinished walls and the echoing sound of Thorne's laughter.
+
