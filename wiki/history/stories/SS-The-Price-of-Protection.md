@@ -144,8 +144,6 @@ After hours of work, she finally stepped back to survey her progress. Only then 
 
 Elowen's eyes narrowed. "And who might you be?" she asked, her tone cool. "The local jester surely has to be more entertaining." She turned her back on the stranger, ignoring his stupid grin.
 
-# The Price of Protection (Continuation)
-
 The bearded man's grin faltered slightly at Elowen's dismissal, but he pressed on, undeterred. "The name's Thorne, girl. Foreman Thorne. And you'd do well to show some respect."
 
 Elowen turned back, her eyebrow raised. "Respect is earned, Foreman Thorne. I've yet to see anything worthy of it here."
