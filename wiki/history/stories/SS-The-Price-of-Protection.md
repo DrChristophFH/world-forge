@@ -298,3 +298,240 @@ As she lay there, staring at the rough-hewn beams above, Elowen's mind continued
 
 These questions swirled in her mind, but exhaustion soon overtook her curiosity. Her eyelids grew heavy, and before long, Elowen drifted off into a fitful sleep, her dreams filled with unfinished walls and the echoing sound of Thorne's laughter.
 
+## Chapter 2
+
+The next few days blurred together in a haze of backbreaking labor and mounting frustration for Elowen. Each morning, she'd wake with renewed determination, only to have it chipped away, bit by bit, as the day wore on.
+
+Her first task was always to survey the previous day's work, and without fail, her heart would sink. Somehow, overnight, it seemed as if she'd made even less progress than she'd thought. Stones she'd carefully placed were askew, mortar she'd meticulously applied was crumbling. It was as if some malevolent force was undoing her work while she slept.
+
+Doing everything on her own was a nightmare. Every time she needed assistance, she was met with indifference or outright refusal.
+
+"Hey, can someone help me with the crane? I need to lift these stones to the upper level," Elowen called out one morning.
+
+A group of workers lounging nearby barely glanced her way. 
+
+"Not our job," one muttered, returning to his conversation.
+
+Gritting her teeth, Elowen resigned herself to another day of extra steps. She loaded the crane herself, the muscles in her arms screaming in protest. Then came the arduous task of directing the mules to draw the cables, inching the heavy load upwards.
+
+"Whoa there," she called, patting a mule's flank as it shied away from its task. 
+
+"Easy now. We're in this together, you and I."
+
+Once the stones were lifted, she had to scramble up the scaffolding, her legs burning from the countless trips up and down. At the top, she'd unload the crane, piece by painstaking piece.
+
+One afternoon, Elowen came across a row of stones that made her blood boil. What had once been perfectly usable blocks were now a mess of jagged edges and uneven surfaces, as if someone had taken a sledgehammer to them in a fit of rage.
+
+"Who did this?" she demanded, gesturing at the ruined stones. 
+
+A few workers shrugged noncommittally.
+
+"Needed some smaller pieces," one finally offered. 
+
+"Figured these would do."
+
+Elowen's jaw clenched. 
+
+"There's a pile of scrap stone not fifty paces from here," she said, her voice tight with controlled anger. 
+
+"You've just ruined an entire day's work for the sake of a few chips."
+
+The worker shrugged again, clearly unconcerned. Elowen turned away, fighting the urge to scream. Now she'd have to spend hours reshaping these massacred stones, setting her back even further.
+
+The lack of foresight and planning was everywhere. One day, Elowen spent hours carefully measuring and cutting stones for a specific section, only to find that the support structure beneath hadn't been properly reinforced.
+
+"We can't place these until that's fixed," she explained to a group of workers. 
+
+"It won't hold the weight."
+
+"Not our problem," came the all-too-familiar response. 
+
+"We just place the stones where we're told."
+
+Elowen found herself having to backtrack, reinforcing the lower levels before she could even think about continuing upwards. It was like trying to build a house of cards in a windstorm.
+
+The scaffolding was another constant source of frustration. Poorly constructed and haphazardly maintained, it swayed alarmingly even in light breezes. Elowen lost count of the times she had to stop her work to repair or rebuild sections of scaffolding, just to ensure she wouldn't plummet to her death while working.
+
+Over the days she became quite skilled at it, but the better she got, the more her anger grew. She was a stonemason, not a carpenter. Her time and energy should have been spent on the wall, not on fixing someone else's mistakes.
+
+"This is insane," she muttered one day, tightening a loose joint on a particularly rickety platform. 
+
+"How has no one fallen yet?"
+
+A passing worker overheard her. 
+
+"Oh, people fall all the time," he said casually. 
+
+"After a few times you get used to it."
+
+Elowen stared at him, aghast. The casual disregard for safety was yet another symptom of the deep-rooted problems plaguing the project.
+
+Despite the endless setbacks, Elowen pushed on. She worked through meals, started before dawn, and finished long after dusk. Her hands became a map of cuts and calluses, her back a constant ache. But still, she persevered.
+
+Yet for all her efforts, the progress seemed negligible. The wall stretched endlessly before her, a monumental task that seemed to grow larger with each passing day. For every stone she placed, it felt like two more appeared, needing attention.
+
+As she collapsed into her bunk each night, exhausted beyond measure, Elowen couldn't help but wonder: How long could she keep this up? And more importantly, how could she hope to make a real difference in this sea of chaos and indifference?
+
+The answers eluded her, lost in the fog of fatigue. But still, each morning, she rose, ready to face another day of challenges. For the Bulwark had to be built, and if no one else would do it right, then by the gods, she would as long as she could hold her hammer.
+
+## Chapter 3
+
+The sun had barely crested the horizon when Elowen began her work, her muscles already protesting from the previous days' exertions. She was attempting to maneuver a particularly stubborn stone into place, her feet precariously balanced on the scaffolding, when she heard voices approaching.
+
+A group of workers she didn't recognize was passing by, likely heading to another section of the Bulwark. Elowen paid them little mind, too focused on her task to care about the comings and goings of others.
+
+"Need a hand with that?" 
+
+The unexpected offer nearly made Elowen lose her balance. She turned to see a woman with bright eyes and a kind smile looking up at her. The woman was part of the passing group but had stopped, her gaze fixed on Elowen's struggle.
+
+"I... yes, actually," Elowen admitted, surprise evident in her voice. 
+
+It was the first time anyone had offered help without being asked—and usually ignored—first. The woman climbed up the scaffolding with practiced ease. 
+
+"I'm Lyra," she said, positioning herself on the other side of the stone.
+
+"On three?"
+
+Together, they lifted the stone, guiding it perfectly into place. The task that had been giving Elowen fits for the better part of an hour was completed in moments.
+
+"Thank you," Elowen said, wiping sweat from her brow. 
+
+"I'm Elowen."
+
+Lyra nodded, a warm smile on her face. 
+
+"Nice to meet you, Elowen. Keep up the good work!"
+
+And with that, she descended the scaffolding and rejoined her group, leaving as quickly as she had arrived. Elowen watched her go, a mix of gratitude and wonder washing over her. It was such a small gesture, but after days of struggling alone, it felt monumental.
+
+The encounter with Lyra seemed to infuse Elowen with new energy. The rest of her day flew by in a flurry of productivity. Stones that had been giving her trouble suddenly seemed to fit perfectly. The aches in her muscles faded to a dull background noise as she worked with renewed vigor.
+
+As the sun began to set, Elowen stepped back to survey her progress. For the first time since she'd arrived, she felt a genuine sense of accomplishment. The section of wall she'd been working on had grown significantly, each stone laid with care and precision.
+
+With a satisfied nod, Elowen made her way to the dining tent. As she entered, her eyes scanned the crowded space, hoping to spot a familiar face. To her delight, she saw Lyra sitting at a table near the back, enjoying her meal. Gathering her courage, Elowen approached. 
+
+"Mind if I join you?"
+
+Lyra looked up, recognition dawning in her eyes. 
+
+"Elowen, right? Please, sit!"
+
+As Elowen settled into her seat, she couldn't help but feel a bit nervous. It had been so long since she'd had a friendly interaction here.
+
+"I wanted to thank you again for your help earlier," she began.
+
+"It... it meant a lot."
+
+Lyra waved off the thanks with a smile.
+
+"It was nothing. We're all in this together, aren't we? Or at least, we should be."
+
+There was something in Lyra's tone that piqued Elowen's curiosity.
+
+"You've been here a while?" she asked.
+
+Lyra nodded.
+
+"Two years now. I've seen a lot of changes, not all of them for the better."
+
+Elowen leaned in, intrigued. 
+
+"What do you mean?"
+
+Lyra glanced around before lowering her voice.
+
+"Let's just say that not all teams are created equal. Some of us still remember why we're here, why the Bulwark is so important. Others... well, they've lost sight of the bigger picture."
+
+As they continued to talk, Elowen found herself hanging on Lyra's every word. Here, at last, was someone who seemed to understand the frustrations she'd been facing, someone who shared her dedication to the project.
+
+Their conversation flowed easily, touching on their experiences at the Bulwark, their homes, and their hopes for the future. Before Elowen knew it, the dining tent had nearly emptied, the lateness of the hour catching her by surprise.
+
+"I should get some rest," Elowen said reluctantly, not wanting the conversation to end.
+
+"Early start tomorrow."
+
+Lyra nodded in understanding. 
+
+"It was good talking with you, Elowen. Don't be a stranger, alright?"
+
+As Elowen made her way back to her barracks, she felt lighter than she had in days. The crushing loneliness that had been her constant companion since arriving at the Bulwark had eased. She had found an ally, perhaps even a friend, in Lyra.
+
+Settling into her bunk, Elowen allowed herself a small smile. Tomorrow would bring new challenges, she knew, but for the first time since she'd arrived, she felt ready to face them. With Lyra's words echoing in her mind, Elowen drifted off into a peaceful sleep, eager for what the new day might bring.
+
+She woke with the dawn, her body instinctively ready for another day of grueling work. It took her a moment to remember that today was different - it was her team's day off. A rare opportunity to rest, but Elowen had other plans.
+
+After a quick breakfast, she set out to find Lyra's team. Her curiosity about their work, sparked by their conversation the previous night, drove her forward. As she walked, Elowen took in the enormity of the Bulwark project with fresh eyes.
+
+The construction site was a labyrinth of activity, each section a piece of a grand puzzle she was only beginning to understand. She passed by teams working on various aspects of the wall - some laying foundations, others erecting scaffolding, and occasionally in special sections even small groups carving intricate designs into finished sections.
+
+As she walked, the structure of the Bulwark began to make more sense to her. The section where Maevis's team - her team - was working came into clearer focus. It wasn't just a random part of the wall as she had initially thought. It was a crucial load-bearing inner wall, designed to support the outer shell construction facing south on the eastern part.
+
+"No wonder the work is so demanding," Elowen muttered to herself, a new appreciation for the importance of their task dawning on her.
+
+The realization made the constant setbacks and poor management even more frustrating. Such a critical component shouldn't be left in the hands of a disorganized and unmotivated team.
+
+It took Elowen the better part of the morning to locate Lyra's team. They were stationed far to the east, where the Bulwark met the mountain. As she approached, her eyes widened in awe.
+
+Rising before her was the beginnings of what could only be described as a fortress within a fortress. Massive stone blocks formed the foundation of what would become towering walls. Intricate scaffolding reached skyward, hinting at the impressive height the structure would eventually achieve.
+
+"Elowen!" Lyra's voice cut through the din of construction. 
+
+She waved from atop a partially built wall, a wide smile on her face. 
+
+"Come on up!"
+
+Elowen carefully made her way up the scaffolding, noting its sturdiness compared to what she was used to. When she reached Lyra, she was slightly out of breath, but exhilarated.
+
+"What is all this?" Elowen asked, gesturing at the impressive construction around them.
+
+Lyra's eyes shone with pride. 
+
+"This, my friend, is the Eastern Ridge Keep. It's where the Bulwark connects to the mountain. Once it's complete, it'll be a fortress in its own right, capable of withstanding sieges and housing a significant defensive force."
+
+As Lyra gave her a tour, Elowen was struck by the organization and efficiency of the team. Everyone seemed to know their role, working in harmony to bring the Keep to life. It was a stark contrast to the chaos she'd grown accustomed to in Maevis's section.
+
+"How do you manage it all?"
+
+Elowen asked, unable to keep the awe from her voice. Lyra shrugged, but there was a glimmer of pride in her eyes.
+
+"A shared sense of purpose, I suppose. And of course, a good foreman helps. See down there?"
+
+She pointed down to a tall, well built man, directing two workers in the placement of a massive stone block. He circled the stone, checking its alignment and making minute adjustments. Elowen watched, impressed by his attention to detail. Suddenly the man took a step forward, grabbing the stone himself and with a grunt, heaving it a few inches to the left and into place. He layed a hand on the shoulder of the worker next to him, pointing and explaining something. The worker nodded, and they both stepped back to admire their work.
+
+"That's Bardhelm, our foreman," Lyra explained.
+
+"He's been with the Bulwark since the beginning. He knows every stone, every block, every inch of this place. And he's not afraid to get his hands dirty."
+
+"I can see that," Elowen said, her admiration growing.
+
+As the day wore on, Elowen absorbed as much as she could, asking questions and even lending a hand where she could. The experience was enlightening, showing her what was possible when a team worked together effectively.
+
+As the sun began to set, casting long shadows across the construction site, Elowen prepared to head back to her own section. Her mind was buzzing with ideas and observations.
+
+"Thank you for letting me observe today," Elowen said to Lyra as they said their goodbyes. 
+
+"It's been... eye-opening."
+
+Lyra squeezed her shoulder warmly.
+
+"You're welcome anytime, Elowen. And listen, if you ever need any advice or just want to talk, you know where to find me."
+
+With a final wave, Elowen made her way back to her barracks, yet she didn't get far before she was stopped by a now familiar voice.
+
+"Elowen, you have a moment?"
+
+It was Bardhelm, the foreman of Lyra's team, cleaning his hands with a rag as he approached.
+
+"Of course," Elowen said, her curiosity piqued.
+
+"I wanted to thank you for your help today. You have a good eye for stonework."
+
+Elowen wanted to thank him for the compliment, but Bardhelm continued before she could speak.
+
+"I know the work can get quite loud and my ears are not the best anymore, but I am not deaf yet. I heard you talking to Lyra and couldn't help but overhear your conversation. I wish I could offer you a place in my team, but Castor... well, he doesn't like others to interfere with his decisions would be an understatement."
+
+A deep sigh escaped Bardhelm's lips.
+
+"Don't let some dull tools break your marble spirit. In the end, nobodies name will be written on the stones we lay. Just let it pass and do your best."
+
+Elowen nodded, grateful for the advice. With a tight-lipped nod, Bardhelm turned and walked away, leaving Elowen to ponder his words. The contrast between Lyra's team and her own was stark, almost painful to acknowledge.
