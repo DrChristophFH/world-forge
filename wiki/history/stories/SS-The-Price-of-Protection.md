@@ -535,3 +535,393 @@ A deep sigh escaped Bardhelm's lips.
 "Don't let some dull tools break your marble spirit. In the end, nobodies name will be written on the stones we lay. Just let it pass and do your best."
 
 Elowen nodded, grateful for the advice. With a tight-lipped nod, Bardhelm turned and walked away, leaving Elowen to ponder his words. The contrast between Lyra's team and her own was stark, almost painful to acknowledge.
+
+The next morning, Elowen's body protested as she rose from her bunk. The previous day's exertions, though not her usual labor, had taken their toll. Every muscle ached, reminding her that a day of 'rest' at the Bulwark should really consist of rest.
+
+As she made her way to the work site, Elowen gritted her teeth against the discomfort. She wouldn't show weakness, not now. There was too much to be done, too much she wanted to change.
+
+Bardhelm's words echoed in her mind: "Don't let some dull tools break your marble spirit." She took a deep breath, steeling herself for the day ahead. She could handle this. She had to.
+
+Today, Elowen had a plan. Instead of focusing solely on her own tasks or fruitlessly asking for help, she would try something different. It was time that she would help someone, not the other way around. But she knew that directly approaching someone and offering help might be met with suspicion or outright rejection.
+
+She spent the first hour of the morning wandering the site, observing her fellow workers. She was looking for the right opportunity, the right person who might be receptive to her assistance.
+
+Finally, she spotted him. A younger worker, probably new to the project, struggling with a particularly stubborn stone. He was trying to fit it into place, but it was clear he was having difficulty managing its weight and alignment simultaneously.
+
+Elowen watched, biding her time. She wanted to step in at just the right moment, when the frustration was at its peak but before it turned to anger or despair.
+
+As the worker let out a particularly colorful curse, Elowen made her move. Without a word, she stepped up beside him and placed her hands on the stone, helping to steady it.
+
+The worker's head snapped up, his eyes narrowing. 
+
+"What do you think you're doing?" he snapped. 
+
+"You'll ruin all my work!"
+
+Elowen kept her voice calm and her posture non-threatening. 
+
+"Just thought you could use an extra pair of hands. Sometimes these stones have a mind of their own."
+
+She adjusted her grip slightly, taking some of the weight off the worker's arms. Almost involuntarily, he shifted to accommodate her help, and suddenly, the stone slid smoothly into place.
+
+The worker blinked in surprise, looking from the perfectly placed stone to Elowen and back again. 
+
+"That... that was easier than I expected," he admitted grudgingly.
+
+Elowen nodded, careful not to appear too eager. 
+
+"Sometimes it just takes a bit of teamwork. I'm Elowen, by the way."
+
+"Aren," the worker replied, still eyeing her warily but with a hint of curiosity now. 
+
+"You... you've done this before, haven't you?"
+
+Elowen shrugged modestly. 
+
+"I've laid a stone or two in my time. Mind if I stick around? Looks like you've got quite a section to finish here."
+
+Aren hesitated for a moment, then nodded. 
+
+"Alright. But don't get in my way."
+
+As they worked together, Elowen was careful to follow Aren's lead. Even when she saw him making decisions that were inefficient or even counterproductive, she kept her mouth shut. She knew that building trust was more important right now than perfect stonework.
+
+She handed him tools before he asked, anticipated where he would need support, and offered encouraging words when a task proved difficult. Slowly but surely, she could see Aren relaxing, becoming more comfortable with her presence.
+
+By midday, they had fallen into a smooth rhythm. Aren was even starting to ask for her input on certain decisions. 
+
+"What do you think?" he asked, gesturing to a particularly tricky corner they were approaching. 
+
+"Should we use the larger stones here or stick with the medium ones?"
+
+Elowen considered for a moment. She knew the larger stones would provide better support, but she also remembered how Aren had struggled with their weight earlier. 
+
+"The medium ones might be easier to maneuver in that tight space," she suggested, letting him feel like he was still in control.
+
+Aren nodded, seeming pleased with the advice. As they continued to work, Elowen could see the pride growing in his eyes. They were making good progress, far more than he would have on his own.
+
+As the sun began to set, Aren stepped back to survey their work. A slow smile spread across his face. 
+
+"We did good today," he said, a note of surprise in his voice.
+
+Elowen nodded, careful not to overplay her hand. 
+
+"We did. Teamwork makes a difference, doesn't it?"
+
+Aren scratched his head, looking thoughtful. 
+
+"Yeah, I suppose it does. You know, Elowen... if you're not busy tomorrow, I wouldn't mind if you wanted to work together again."
+
+Elowen felt a spark of triumph in her chest, but kept her expression neutral. 
+
+"I'd like that, Aren. See you tomorrow."
+
+As she made her way back to the barracks that night, Elowen felt a glimmer of hope. It was a small step, but an important one. She had made a connection, shown the value of teamwork. 
+
+Tomorrow, she would build on this foundation. And maybe, just maybe, she could start to bring some of the efficiency and purpose she had seen in Lyra's team to her own section of the Bulwark.
+
+With a satisfied smile, Elowen closed her eyes, ready for whatever challenges the next day might bring.
+
+Over the next few days, Elowen and Aren fell into a comfortable rhythm. Their teamwork improved steadily, with each day bringing new challenges that they tackled together. Elowen was careful to let Aren take the lead, subtly guiding him towards better techniques without making it obvious she was teaching him.
+
+"Hey, Aren," she'd say casually, "what if we tried lifting from this angle? Might be easier on the back."
+
+Or, "You know, I once saw someone use a lever to move a stone like this. Want to give it a shot?"
+
+Aren, for his part, was an eager learner, even if he didn't realize he was being taught. His confidence grew with each successful task, and soon, their section of the wall was progressing faster than any other in Maevis's group.
+
+However, their success didn't go unnoticed. As Elowen and Aren's section of the wall grew steadily higher and more refined, whispers began to circulate among the other workers.
+
+"Look at them go," one worker muttered, eyeing Elowen and Aren's progress with a mix of admiration and resentment. 
+
+"Guess some of us are too good to work with the rest now."
+
+"Yeah," another chimed in, "and have you seen the way Aren's handling those stones now? Where'd he learn that trick?"
+
+The atmosphere in the group began to shift. Where once there had been mere apathy, now there was active discontent. Workers who had previously been content to do the bare minimum now watched Elowen and Aren with narrowed eyes, their own inadequacies thrown into sharp relief by the duo's efficiency.
+
+One morning, Elowen arrived at the work site to find Aren already there, frowning at their wall section.
+
+"Something wrong?" she asked, noting the frustration in his stance.
+
+Aren gestured at the wall. 
+
+"Some of the stones we placed yesterday... they're loose. I could've sworn we set them properly."
+
+Elowen examined the wall closely. Indeed, several stones had been shifted, their careful placement disrupted. This wasn't the result of natural settling or poor workmanship. This was deliberate.
+
+"Aren," she said slowly, "I think someone might have tampered with our work."
+
+Aren's eyes widened, then narrowed. "But why would anyone do that?"
+
+Elowen sighed, realizing she needed to tread carefully. 
+
+"Sometimes, when people see others succeeding, it can make them... uncomfortable. Especially if they're not doing as well themselves."
+
+Understanding dawned on Aren's face, quickly followed by anger. 
+
+"So they're sabotaging us because we're doing a good job? That's... that's..."
+
+"Frustrating," Elowen finished for him, placing a calming hand on his arm. 
+
+"But getting angry won't help. We'll just have to work harder, be more vigilant."
+
+As the days passed, the sabotage continued. Tools would go missing, only to reappear in inconvenient places. Carefully measured stones would be subtly shifted overnight. Once, a entire section of scaffolding was found dismantled in the morning.
+
+Through it all, Elowen maintained her composure, using each setback as an opportunity to teach Aren about problem-solving and perseverance. She was careful never to accuse anyone directly, always framing the issues as challenges to be overcome rather than attacks to be avenged.
+
+The tension in the group continued to build. Workers who had once been indifferent now actively avoided Elowen and Aren. Snide comments and hostile glares became commonplace.
+
+One evening, as they were finishing up for the day, Aren turned to Elowen, his voice low. 
+
+"Why are we still doing this? Why bother when everyone's against us?"
+
+Elowen paused in her work, considering her words carefully. 
+
+"Because what we're doing matters, Aren. This wall, this Bulwark... it's not a a vanity project. The people at home, my family, your family... they're counting on us to keep them safe."
+
+Aren nodded slowly, a new determination settling over his features. 
+
+"You're right. Let them try to stop us. We'll just keep building."
+
+As they parted ways for the night, Elowen felt a mix of pride and concern. She and Aren had forged a strong partnership, one that was producing real results. But the cost had been high. The rest of the group was more fractured than ever, united only in their resentment of the duo's success.
+
+Elowen knew that something would have to give eventually. The situation couldn't continue as it was. But for now, all she could do was continue her work, hope that her example would eventually inspire rather than alienate, and brace herself for whatever challenges the next day might bring.
+
+As the sun dipped below the horizon, casting long shadows across the Bulwark, Elowen found herself wandering towards Lyra's section. The weight of the day's frustrations bore heavily on her shoulders, and she desperately needed a friendly ear.
+
+She found Lyra cleaning her tools, humming softly to herself. Upon seeing Elowen's approached, Lyra's face lit up with a warm smile. 
+
+"Elowen! What brings you to our neck of the woods?"
+
+Elowen's carefully maintained composure crumbled at the sight of her friend's welcoming expression. 
+
+"Lyra, I... I don't know what to do anymore," she admitted, her voice thick with emotion.
+
+Concern flickered across Lyra's face. She set aside her tools and gestured for Elowen to sit beside her. 
+
+"Tell me what's troubling you," she said gently.
+
+The words tumbled out of Elowen in a rush. She told Lyra about her efforts with Aren, how she had painstakingly shared her knowledge without bruising his ego, the progress they had made together. But then her voice grew bitter as she described the backlash from the rest of the group.
+
+"I thought I was making things better," Elowen said, frustration evident in her voice. 
+
+"But now the group is more divided than ever. There's sabotage, resentment... it's a mess, Lyra. And I'm starting to lose my temper. I just... I don't know what to do next."
+
+Lyra listened intently, her kind eyes never leaving Elowen's face. When Elowen finished, Lyra was quiet for a moment, considering her words carefully.
+
+"Elowen," she began, her voice soft but firm, "you've done remarkably well, all things considered. But there's something you need to understand." 
+
+She paused, making sure she had Elowen's full attention. 
+
+"As long as you're seen as equal to the others, they'll always view you as competition when there's no proper leadership."
+
+Elowen's brow furrowed. 
+
+"But what am I supposed to do? I can't just declare myself new foreman."
+
+Lyra shook her head, a gentle smile on her lips. 
+
+"No, you can't. But there might be another way." 
+
+She leaned in closer, her voice dropping to a near whisper. 
+
+"You need to crack Maevis."
+
+"But he's... he's barely there most of the time. He isn't leading the team, he's just... existing."
+
+"That's the point," Lyra explained. 
+
+"There's a story there. A reason he's in the state he's in now. If you can figure out his backstory, understand what happened to him, you might be able to reach him."
+
+Elowen's mind raced with the implications. 
+
+"And with his support..."
+
+"You might be able to get the others on board as well," Lyra finished for her, nodding. 
+
+"Maevis is still their foreman, even if he's not acting like it. If you can get through to him, help him remember his purpose, it could change something."
+
+Elowen sat back, absorbing Lyra's words. It was a daunting task, to be sure. Maevis had been unresponsive, almost catatonic, since she'd arrived. But if there was a chance it could unite the group, improve their work...
+
+"But how do I even start?" Elowen asked, feeling overwhelmed by the prospect.
+
+Lyra placed a comforting hand on Elowen's shoulder. 
+
+"It would be best if you could catch him when you two are alone. From what you've told me, the others are part of the problem."
+
+Elowen nodded, feeling a glimmer of hope for the first time in days. 
+
+"Thank you, Lyra. I don't know what I'd do without your advice."
+
+Lyra's smile widened. 
+
+"That's what friends are for. And Elowen?" She waited until Elowen met her gaze. 
+
+"Don't forget to take care of yourself too. You can't help others if you're burning out."
+
+As Elowen made her way back to her barracks that night, her mind was abuzz with new possibilities. The task ahead was daunting, but at least now she had a direction, a goal to work towards.
+
+## Chapter 4
+
+For days, Elowen had been watching Maevis, looking for an opportunity to speak with him alone. Finally, her chance came late one evening as the work crews were dispersing. She saw Maevis shuffling towards an entrance to the inner corridors of the Bulwark and decided to follow him.
+
+The passageways inside the Bulwark were a maze of stone and shadow, lit sporadically by guttering torches. Elowen followed Maevis at a distance, not wanting to startle him. Eventually, they reached a secluded corridor deep within the structure. Here, Elowen decided to make her move.
+
+"Foreman Maevis," she called out softly. "May I speak with you?"
+
+Maevis paused but didn't turn around. Taking this as permission, Elowen approached him.
+
+"I... I wanted to talk to you about our team," she began hesitantly. "There are problems, serious ones. I've tried to help, to organize things better, but it's not working."
+
+She went on to explain the issues she'd encountered: the lack of cooperation, the sabotage, the resentment. As she spoke, her frustration and worry poured out. But Maevis remained silent, his clouded eyes staring blankly ahead.
+
+"Please," Elowen pleaded, her voice echoing in the stone corridor. "We need leadership. The Bulwark needs proper guidance. Why won't you lead us?"
+
+But Maevis didn't respond. Instead, he began to wander along the wall, his gnarled hands trailing along the rough stone surface. Elowen watched, her initial hope giving way to frustration.
+
+"Are you even listening to me?" she demanded, her patience finally snapping. "Don't you care about what's happening to your team, to the Bulwark?"
+
+Suddenly, Maevis stopped. He turned towards Elowen and, for the first time since she'd arrived at the Bulwark, he reached out to her. His weathered hand gently grasped hers. Elowen was so surprised that she didn't resist as he guided her hand to the wall, pressing her palm flat against the cool stone.
+
+Then, Maevis spoke, his voice a low, gravelly whisper that sent a shiver down Elowen's spine.
+
+"What do you feel?"
+
+Elowen blinked, confused by the question. "Stone," she replied, uncertainty clear in her voice. "Obviously."
+
+Maevis shook his head slowly.
+
+"Granite, to be precise," Elowen elaborated, thinking perhaps he wanted more detail. "It's a fine-grained variety, ideal for..."
+
+Again, Maevis shook his head. "Obviously you can see," he murmured. "But can you feel?"
+
+Elowen's confusion deepened. She was about to ask what he meant when Maevis continued, his unseeing eyes somehow focused intently on the wall.
+
+"I feel it clearly. A quarter chisel, dull on the right edge, taking off small pieces. Then the stone chips, too much force." His hand wandered to the right. "He tries again." Another slight movement. "Again it chips."
+
+Elowen stared at him, astounded. She peered closely at the wall, and there, barely visible, were the marks exactly as Maevis had described them.
+
+"He hasn't noticed the small inclusion," Maevis continued. "Had he adjusted his angle just slightly, it would have been perfect."
+
+Elowen was speechless. She ran her fingers over the stone, feeling some subtle imperfections.
+
+"You feel all that just from the stone?"
+
+A sad smile flickered across Maevis's face. "Each stone is not just a block to be placed. You must listen to it, understand it, feel it."
+
+Elowen ran a hand through her hair, exasperated. "But we can't build a wall on feelings and whispers! We need leadership, plans, proper tools..."
+
+"Tools?" Maevis interrupted, a hint of passion in his voice. "The greatest tool is the hand guided by understanding. The keenest measure is the heart attuned to the rhythm of the stone. All else is mere distraction."
+
+Elowen found herself struggling between her practical nature and the undeniable passion in the old man's voice. Part of her wanted to dismiss his ramblings as the delusions of a man who had spent too long in the sun. But another part, a part she didn't quite understand, was drawn to the mystical reverence with which he spoke of the stone.
+
+"Maevis," she said finally, trying to keep her voice level, "I understand that you have a... unique perspective on stonework. But the others, they don't see things the way you do. They need clear instructions, tangible goals. How can we possibly make progress if our foreman speaks in riddles?"
+
+"The others," Maevis repeated, his voice soft. "For them, stone is a tool. Shaped by force, by will. I tried to show them that all it took was to ask nicely for the shape they wanted. But they didn't listen."
+
+He reached out, taking Elowen's hand in his weathered one. "You learned to command, and imposing your will upon the stone and upon your fellow workers. It takes strength, determination, and skill to do so."
+
+He paused for a moment, his blind eyes wandering off as if into another time. "I... I never had that strength. I cannot teach, what has never been taught to me. I can only ask them to listen with me."
+
+Elowen felt a sudden surge of empathy for the old man. His words, though still cryptic, revealed a vulnerability she hadn't expected. She took a deep breath, making a decision that surprised even herself.
+
+"Then... teach me to listen," she said softly. "Show me what you mean. Maybe if I can understand, I can help the others understand too."
+
+Maevis's face lit up with a smile that seemed to erase years from his weathered features. "You truly wish to learn?"
+
+Elowen nodded, then remembering his blindness, said, "Yes, I do."
+
+"Then come," Maevis said, his voice filled with a new energy. "Let us find a stone that wishes to speak."
+
+They made their way to a secluded area of the construction site where large, uncut stones waited to be shaped. Maevis ran his hands over several before stopping at one that was nearly as tall as he was.
+
+"This one," he murmured. "It has much to say."
+
+Elowen watched in amazement as Maevis, despite his age and blindness, positioned himself perfectly in front of the stone. He placed his left hand on the stone's surface, closed his eyes, and stood motionless for several long moments.
+
+Then, with a speed and precision that seemed impossible, he struck the stone with his hammer and chisel. Once, twice, three times in rapid succession. Large chunks fell away, and to Elowen's astonishment, a rough shape began to emerge.
+
+Over the next hour, Maevis worked with an grace and efficiency Elowen had never seen before. His movements were minimal, each strike deliberate and perfectly placed. By the end, what had once been a formless block was now a beautifully shaped stone, ready to fit perfectly into the Bulwark.
+
+"Now," Maevis said, turning to Elowen. "You try."
+
+Elowen approached another stone, hammer and chisel in hand. She tried to mimic Maevis's actions, placing her hand on the stone and closing her eyes. But when she struck, the stone chipped awkwardly, nowhere near the clean breaks Maevis had achieved.
+
+"Don't force it," Maevis advised gently. "Listen. Feel the stone's grain, its hidden faults. Let it guide your hand."
+
+Hours passed as Elowen tried again and again. Frustration mounted as stone after stone ended up misshapen or broken. But Maevis remained patient, offering quiet guidance and encouragement.
+
+It was well past midnight when something finally changed. As Elowen placed her hand on yet another stone, she felt... something. A subtle vibration, a sense of the stone's structure that she couldn't quite explain.
+
+When she struck this time, the stone split cleanly, almost effortlessly. It wasn't perfect, not nearly as impressive as Maevis's work, but it was a start.
+
+"I... I think I felt something," Elowen said, her voice filled with wonder.
+
+Maevis smiled broadly. "The stone spoke, and you began to listen. This is only the beginning, Elowen. There is much more to learn."
+
+As they made their way back to the barracks, exhausted but exhilarated, Elowen realized that her world had shifted. She didn't fully understand what had happened, or how she would explain it to the others. But she knew that she had taken the first step on a journey that would change not just how she built, but how she saw the very world around her.
+
+The Bulwark, she realized, was more than just a wall. It was a testament to the profound connection between the builder and the built. And somehow, she would find a way to help others understand this too.
+
+The following day, Elowen woke with a sense of purpose. She knew what she had to do. It wasn't enough for her alone to understand Maevis's gift; the entire team needed to witness it firsthand.
+
+As the sun climbed higher in the sky, Elowen gathered the workers. She had spent the early morning hours preparing several large, rough-faced stones, positioning them in a semicircle in the center of their work area.
+
+"Listen up, everyone," she called out, her voice carrying across the site. "I have a proposition for you all."
+
+The workers gathered, curiosity and skepticism mingling on their faces.
+
+"I'm offering a substantial sum of money," Elowen continued, holding up a pouch that clinked promisingly, "to whoever can straighten and smooth the face of these stones the fastest."
+
+A murmur of excitement rippled through the crowd. In a world where every coin counted, the prospect of extra money was enticing.
+
+"Well, what are we waiting for?" one worker called out. "Let's get to it!"
+
+The workers scattered, each claiming a stone and readying their tools. Elowen watched as they set to work, noting with some satisfaction the passion and energy they brought to the task. It was a stark contrast to their usual lackluster efforts.
+
+Chisels rang against stone, a cacophony of determined labor filling the air. Some workers made steady progress, their experience evident in their measured strikes. Others struggled, barely managing to chip away at the rough surface.
+
+As the competition wore on, it became clear that Aren was in the lead. His hands moved with practiced efficiency, his strokes sure and strong. Finally, he stepped back from his stone, wiping sweat from his brow.
+
+"Done!" he called out triumphantly.
+
+The other workers stopped, some looking dejected, others angry at their failure. But before the mood could sour, Elowen spoke up.
+
+"Well done, Aren," she said, her voice calm. "But not everyone has had their chance yet."
+
+Confusion rippled through the group. "What do you mean?" someone called out. "We've all been working here!"
+
+Elowen didn't respond immediately. Instead, she made her way through the crowd, approaching the solitary figure of Maevis, who sat quietly on a stone at the edge of the work area.
+
+The workers watched in bewilderment as Elowen gently took Maevis's hand, pressing a chisel into it. "Come on, Maevis," she said softly. "It's time to show them."
+
+A ripple of disbelief and amusement went through the crowd as Elowen led Maevis to the last remaining stone. It was larger than the others, its face even rougher and more uneven.
+
+"You can't be serious," one worker scoffed. "The old man can barely see, let alone work stone!"
+
+Elowen ignored the comments, positioning Maevis in front of the stone. "Whenever you're ready," she said, stepping back.
+
+Maevis stood motionless for a long moment, his hand resting lightly on the stone's surface. The workers watched, some smirking, others merely curious.
+
+Then, without warning, Maevis began to work.
+
+His movements were unlike anything the workers had ever seen. Where they had hacked and chipped, Maevis's chisel danced across the stone's surface. Each strike was precise, deliberate, seemingly effortless. Large chunks of stone fell away, revealing a smoother surface beneath.
+
+The smirks faded from the workers' faces, replaced by looks of astonishment. Even Aren, who had been so proud of his own work, watched with his mouth agape.
+
+In less time than it had taken Aren to complete his stone, Maevis stepped back. The face of his stone wasn't just straight and smooth - it was perfect. Every angle was true, every line exact.
+
+A hush fell over the gathering. Elowen stepped forward, running her hand over the stone's surface. "This," she said, her voice carrying in the silence, "this is what it means to truly understand stone."
+
+She turned to face the group. "Maevis has been trying to teach us all along. We just weren't listening. But now, if you're willing to learn, he can show us how to build not just a wall, but a true Bulwark - one that will stand for ages."
+
+The workers looked from Elowen to Maevis, then to the perfectly shaped stone. Doubt, amazement, and a newfound respect warred on their faces.
+
+Aren was the first to step forward. "I... I'd like to learn," he said hesitantly. "If you're willing to teach us, Foreman Maevis."
+
+One by one, the other workers nodded their agreement. The atmosphere had shifted, the earlier competitiveness replaced by a shared sense of wonder and possibility.
+
+Maevis, who had remained silent throughout, finally spoke. His voice was soft, but it carried to every ear. "The stone speaks to all who are willing to listen. I will teach you, if you are ready to hear."
+
+As the sun began to set, casting long shadows across the Bulwark, Elowen felt a surge of hope. It wouldn't be easy, she knew. Changing ingrained habits and perspectives never was. But for the first time since she'd arrived, she felt that they were on the right path.
