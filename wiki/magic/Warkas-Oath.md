@@ -8,7 +8,7 @@ tags:
 
 # Warkas Oath
 
-Named after Warkas Ogirius, the Warkas Oath is a magical ritual primarily used by the assassins of Grim. This ritual allows the summoner to utilize Dark Chaos Energy through the Weave of Magic.
+Named after Warkas Ogirius, the Warkas Oath is a magical ritual primarily used by the assassins of Grim. This ritual allows the summoner to utilize Dark Chaos Energy through the Magic Weave.
 
 ## Ritual
 
