@@ -10,7 +10,7 @@ category: plane-of-existence
 
 The [Land of Abominations](/wiki/geography/eides/Land-of-Abominations.md) lies to the north of the Arch-God Kingdom. It used to be a relatively remote and unexplored region, full of snow and ice. With the Dimension Convergence in 173 BB though, the land was corrupted and twisted into a nightmarish realm of monsters and horrors.
 
-## Arch-God Kingdom of Men
+## [Arch-God Kingdom of Men](/wiki/geography/eides/Arch-God-Kingdom.md)
 
 The Arch-God Kingdom of Men is the most powerful and influential nation in the known lands of Eides. It consists of 10 kingdoms, each with its own king, all ruled over by the Arch-God King who reigns in Solvalon, the capital kingdom.
 
