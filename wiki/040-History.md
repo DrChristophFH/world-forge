@@ -15,7 +15,7 @@ category: index
 - ca. 30000 BB: Creation of The Three
 - 8150 BB: Apophis 1st Bearer
 - 3800 BB: Apophis 2nd Bearer
-- 2700 BB: Wereth's Last Cleansing (Loss of almost all records before this time)
+- 2700 BB: [Wereth's Last Cleansing](/wiki/history/events/Wereths-Last-Cleansing.md) (Loss of almost all records before this time)
 
 ## Early History
 - 1517 BB: Departure of Strakius into the Aunarach Desert
