@@ -7,7 +7,7 @@ category: index
 [Calendar](/wiki/history/Calendar.md)
 
 
-## Ancient History
+## Ancient History (Creation - 2700 BB)
 - ca. 43500 BB: Cleansing of the Gods Apocalypse c. 43500 BB
 - ca. 43000 BB: Cleansing of the Viators c. 43000 BB
 - ca. 35000 BB: Bright Era
@@ -17,7 +17,7 @@ category: index
 - 3800 BB: Apophis 2nd Bearer
 - 2700 BB: [Wereth's Last Cleansing](/wiki/history/events/Wereths-Last-Cleansing.md) (Loss of almost all records before this time)
 
-## Early History
+## Early History (2700 BB - 173 AB)
 - 1517 BB: Departure of Strakius into the Aunarach Desert
 - 1513 BB: Departure of Bolibere into the Aunarach Desert
 - 1501 BB: Construction of the first tower in Strakius (City)
@@ -30,13 +30,13 @@ category: index
 - 339 BB: KG-DRV
 - 173 BB: Great Dimension Convergence
 
-## Pre-Bulwark Era
+## Pre-Bulwark Era (173 BB - 0 AB)
 - 95 BB: Construction of the first fortifications in the [Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md)
 - 64 BB: Conquest of the [Forelands](/wiki/geography/eides/arch-god-kingdom/Forelands.md)
 - 18 BB: Battle of Darenfeld 18 BB
 - 17 BB: Design of the first Bulwark by [Bartholomew Slater](/wiki/people/Bartholomew-Slater.md)
 
-## Age of Bulwarks (AB)
+## Age of Bulwarks (0 AB - ...)
 - 0 AB: Start of construction on the Bulwarks of the North
 - 93 AB: [Begin "Era of Light"](/wiki/history/Calendar.md#eras)
 - 242 AB: Completion of the last Bulwark Bulwark of Gods
