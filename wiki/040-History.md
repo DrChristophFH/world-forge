@@ -46,7 +46,7 @@ category: index
 - 302 AB: [Third Dark Storm](/wiki/history/events/dark-storms/Third-Dark-Storm.md), Duration: 37 days
 - 323 AB: Fourth Dark Storm, Duration: 74 days
 - 326 AB: Fifth Dark Storm, Duration: 23 days
-- 333 AB: Birth of Athesis, in the Sanctum Sortis
+- 333 AB: Birth of [Athesis](/wiki/people/Athesis.md), in the [Sanctum Sortis](/wiki/geography/eides/kraikar/aunarach/Strakius.md#sanctum-sortis)
 - 349 AB: Sixth Dark Storm, Duration: 14 days
 - 349 AB: Seventh Dark Storm, Duration: 94 days
 - 355 AB: Eighth Dark Storm, Duration: 66 days
