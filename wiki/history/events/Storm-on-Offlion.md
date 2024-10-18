@@ -10,13 +10,13 @@ The Storm on Offlion, occurring on 12 Ros 462 AB, stands as one of the bloodiest
 ## Participating Forces
 
 ### Arch-God Kingdom of Men (AGKM) - Approximately 500,000 troops
-- Royal Guard Corps of the Trivalon Army Group: ~80,000
-- 7th Troop Corps of the Trivalon Army Group: ~75,000
-- 8th Troop Corps of the Trivalon Army Group: ~60,000
+- Royal Guard Corps of the Trivalon Army: ~80,000
+- 7th Troop Corps of the Trivalon Army: ~75,000
+- 8th Troop Corps of the Trivalon Army: ~60,000
 - A portion of the 5th Rifle Corps: ~20,000
 - 2nd Logistics Corps of the Southern Army Supply Group: ~55,000
 - Command Corps of the Southern Army Supply Group: ~67,000
-- Two Troop Corps of the Fiendheim Army Group: ~160,000
+- Two Troop Corps of the Fiendheim Army: ~160,000
 
 ### Eastern Empire (EE) - Approximately 1,000,000 troops
 - Raitonin Ebu: ~1,000,000
