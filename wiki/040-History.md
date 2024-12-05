@@ -59,7 +59,7 @@ category: index
 - 412 AB: The Grand Army of Levira encounters the Tsar of Hell in the Baherech Desert and is completely annihilated
 - 412 AB: The Tsar of Hell retreats back to Infernus
 - 413 AB: Battle of the Burning Plains: Defeat of the Eastern Empire forces in Kascar
-- 458 AB: Operation Wisp: The Arch-God Kingdom's invasion fleet fails to pass through the Kielpass and suffers heavy losses 
+- 458 AB: [Operation Wisp](/wiki/history/events/Operation-Wisp.md): The Arch-God Kingdom's invasion fleet fails to pass through the Kielpass and suffers heavy losses 
 - 458 AB: Awakening of the Storm King in the Vast Waters
 - 461 AB: [Heimatfall](/wiki/history/events/Heimatfall.md): Eastern Empire's invasion of the Arch-God Kingdom 
 - 461 AB: Greenwood Battle
