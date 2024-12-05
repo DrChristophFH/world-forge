@@ -12,7 +12,7 @@ The Mountain Behemoths once roamed the plains of Eides many thousands of years b
 
 However, due to an unexplained cause, the Mountain Behemoths fell into an eternal sleep many hundreds of years before the arrival of the Viators, leaving their existence unknown for a long time. Many of them died in their sleep and became the mountains that now cover Eides. Only a very few of them still slumber alive in remote locations.
 
-It wasn't until the dwarves, long before the Age of Bulwarks, encountered a Mountain Behemoth that was still alive, that their existance became known. From them come the only records of these creatures. Some fragments of these documents can still be found in the depths of the Library of Scholars.
+It wasn't until the dwarves, long before the Age of Bulwarks, encountered a Mountain Behemoth that was still alive, that their existence became known. From them come the only records of these creatures. Some fragments of these documents can still be found in the depths of the Library of Scholars.
 
 ## Physiology
 
@@ -31,7 +31,7 @@ While initially thought to be mindless giants, dwarven scholars have proposed th
 The Mountain Behemoths have had a profound impact on the geography and ecology of Eides:
 
 1. Mountain Ranges: Many of the world's mountain ranges are believed to be the remains of deceased Mountain Behemoths.
-2. Dwarven Cities: Some of the greatest dwarven cities are built within the bodies of dormant Mountain Behemoths, taking advantage of the natural cavern systems and abundant natural ressources.
+2. Dwarven Cities: Some of the greatest dwarven cities are built within the bodies of dormant Mountain Behemoths, taking advantage of the natural cavern systems and abundant natural resources.
 
 ## Legends and Prophecies
 

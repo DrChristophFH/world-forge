@@ -65,12 +65,12 @@ category: index
 - 461 AB: Greenwood Battle
 - 461 AB: Ananya discovers the Forge of Time
 - 462 AB: [Storm on Offlion](/wiki/history/events/Storm-on-Offlion.md)
-- 462 AB: Trivalon is completely conquered by the EE
+- 462 AB: [Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md) is completely conquered by the EE
 - 465 AB: Betrayal and murder of Arch-God King Kathen var Termenor
 - 465 AB: Fall of Kavaloniir and thus Solvalon
 - 466 AB: Reconstruction of the Forge of Time
 - 466 AB: Birth of Zarka the Blood-born on the 101st day of the Battle of Midlands
-- 477 AB: Recapture of Solvalon, Trivalon, Lightfall, Bivalon and New Haven by the Arch-God Royal Forces Rahkam Offensive
+- 477 AB: Recapture of Solvalon, [Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md), Lightfall, Bivalon and New Haven by the Arch-God Royal Forces Rahkam Offensive
 - 477 AB: Agimon Draach manages to bring together the three most powerful magic artifacts and returns with them to Permagica
 - 481 AB: In the great Mage Battle against Agimon Draach, he accidentally summons a Dimension Convergence, leading to his death. Draach's Dimension Convergence
 - 481 AB: Fabric Divergence Beginning
