@@ -24,10 +24,10 @@ category: index
 - 1378 BB: Founding of the Kingdom of Dreoniell
 - 799 BB: Coronation of the first Arch-God King and founding of the Arch-God Kingdom of Men
 - 648 BB: Battle of Pryleth
-- 532 BB: Union of the Free Lands
 - 493 BB: Beginning of monster fishing in the Vast Waters
 - 345 BB: Establishment of the first outpost in the Western Colony "Chasm Fields"
 - 339 BB: KG-DRV
+- 188 BB: Union of the Free Lands
 - 173 BB: Great Dimension Convergence
 
 ## Pre-Bulwark Era (173 BB - 0 AB)

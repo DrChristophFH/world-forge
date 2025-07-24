@@ -1,7 +1,10 @@
 # Season 2: "The Great Convergence" (173 BB)
 
 ## Season Overview
+
 The most catastrophic season in the series, depicting the Great Dimensional Convergence that forever changes the world. Reality itself is torn apart as dimensions collide, transforming the northern lands into the nightmarish Land of Abominations.
+
+Difficulties with the new coalition between the Kingdoms in the east. They have come together in a loose alliance called "Union of the Free Lands", mostly opening their borders to each other, improving trade and communication. This leads to a period of new trade routes and cultural exchange in the midsea. Trivalon is accumulating wealth and power through their ports. This causes tensions within the Arch-God Kingdom. Eventually leads to the split of Trivalon into Trivalon and Neuhaven, as the latter is founded by the Arch-God King to counterbalance the growing power of Trivalon.
 
 ## Main Characters
 
@@ -92,87 +95,3 @@ The most catastrophic season in the series, depicting the Great Dimensional Conv
 - Creation of specialized units to fight supernatural threats
 - The convergence zone stabilizes into the Land of Abominations
 - **Ending**: Seeds planted for future fortification efforts
-
-## Major Themes
-
-### Cosmic Horror
-Humans confronting forces beyond their understanding or control, emphasizing their insignificance in the face of cosmic forces.
-
-### Adaptation and Survival
-How individuals and societies adapt to fundamental changes in their reality.
-
-### The Cost of Progress
-Scientific advancement through disaster - knowledge gained through catastrophic loss.
-
-### Loss of Innocence
-The end of a simpler world where humans were the dominant force.
-
-## Key Locations
-
-### The Convergence Zone
-- The area where dimensions overlap most severely
-- Constantly shifting geography and physics
-- Home to the most dangerous abomination creatures
-- Eventually becomes the heart of the Land of Abominations
-
-### Northern Frontier Settlements
-- Various towns and outposts before the convergence
-- Show normal human life before the catastrophe
-- Locations for dramatic transformation scenes
-- Some survive as islands of humanity in the new landscape
-
-### The Dimensional Rifts
-- Tears in reality connecting to other planes
-- Sources of abomination creatures and strange phenomena
-- Visually spectacular locations for key scenes
-- Some stabilize, others close randomly
-
-### The Great Observatory
-- Thelian's research facility
-- Location for exposition about dimensional theory
-- Partially destroyed but becomes center for ongoing research
-- Foundation for future scientific advances
-
-## Season Arc Resolution
-
-### World-Building Resolution
-- The Land of Abominations is established as permanent threat
-- New types of creatures and supernatural phenomena introduced
-- The world's mythology expands to include other dimensions
-- Sets up the need for the fortifications of future seasons
-
-### Character Resolution
-- Thelian becomes the kingdom's expert on dimensional phenomena
-- Morvain establishes new military doctrines for supernatural warfare
-- Lyralei proves herself as a leader and eventual heir
-- Elder Magnus's secrets revealed, setting up future Shadow Council storylines
-
-### Scientific/Magical Resolution
-- Understanding of dimensional convergence allows limited prediction
-- New magical and technological responses to supernatural threats
-- Foundation laid for the advanced defenses of later seasons
-- Introduction of concepts that will be important in Season 10's Draach storyline
-
-### Setup for Season 3
-- The need for permanent fortifications becomes obvious
-- Northern territories need to be reconquered and secured
-- New military technologies and strategies required
-- Sets up Bartholomew Slater's future innovations
-
-## Visual Style
-- Cosmic horror aesthetic with reality-bending sequences
-- Practical effects combined with CGI for dimensional phenomena
-- Creature design emphasizing the alien and incomprehensible
-- Dramatic environmental transformation sequences
-
-## Special Effects Focus
-- Dimensional rifts and convergence zones
-- Creature design for abominations from other planes
-- Environmental transformation sequences
-- Magic/science that defies normal physics
-
-## Tone
-Cosmic horror meets epic fantasy. The most psychologically challenging season, showing how a civilization copes with existential threats. Balances spectacular visual sequences with intimate human drama. Sets the darker tone that will characterize the remainder of the series.
-
-## Historical Impact
-This season fundamentally changes the world's status quo, creating the central conflict that drives the entire remainder of the series. The convergence creates the ongoing threat that necessitates all future military, political, and technological developments.
