@@ -4,7 +4,7 @@ category: material
 
 # Aegolith
 
-## From the Depths of [[Eides]]
+## From the Depths of [Eides](/wiki/geography/Eides.md)
 
 Aegolith was first discovered during the construction of the bulwarks at the beginning of the Age of Bulwarks, when previously barely explored areas were searched for new building materials with special properties. Dwarves were primarily commissioned for this task, working together with some of the greatest architects and master builders of the time. During the first [Devil's Hole](/wiki/geography/eides/arch-god-kingdom/forelands/Devils-Hole.md) expedition, a team of dwarves explored exactly this. In the depths, far from daylight, they encountered a strange material in the walls of the abyss that they had never seen before.
 
