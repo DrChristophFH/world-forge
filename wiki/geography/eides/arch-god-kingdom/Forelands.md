@@ -35,7 +35,7 @@ The Forelands consist of four Lordships:
 
 - **[Black Mountains](/wiki/geography/eides/land-of-abominations/Black-Mountains.md)**: Form the northern border of the Forelands, serving as a natural barrier against the Land of Abominations.
 - **White Ridge**: A particularly high mountain range separating Araven Theel and Letren. It features an ancient tunnel system still in use today as the main route between the two Lordships. It was built way before the beginning of recorded history by some unknown inhabitants.
-- **Devil's Hole**: Located in Araven Theel, it's the site where Aegolith and Pitchstone were discovered - key materials for constructing the Bulwarks.
+- **[Devil's Hole](/wiki/geography/eides/arch-god-kingdom/forelands/Devils-Hole.md)**: Located in Araven Theel, it's the site where Aegolith and Pitchstone were discovered - key materials for constructing the Bulwarks.
 - **Tidal Bridge**: A massive bridge built by the dwarves centuries ago, connecting the [Grey Fields](/wiki/geography/eides/arch-god-kingdom/forelands/Grey-Fields.md) to Vughdoruhl, a volcanic island to the east.
 - **Troll Islands**: Abandoned islands west of Trollfre, once inhabited by humans but now overrun by trolls. Ruins of the former civilization are scattered across the islands.
 
