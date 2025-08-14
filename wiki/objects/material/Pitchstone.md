@@ -1,0 +1,11 @@
+---
+category: material
+---
+
+# Pitchstone
+
+Pitchstone is an exceptionally dense and durable rock formed through the reaction between [Aegolith](/wiki/objects/material/Aegolith.md) and a variety of host rock types. Its color is most often a deep, uniform black, though slight variations in shade and texture occur depending on the composition of the rock with which the [Aegolith](/wiki/objects/material/Aegolith.md) reacted. These differences result in minor but measurable changes in hardness, toughness, and workability, though the deviations are rarely significant enough to alter its classification.
+
+The formation of Pitchstone is accompanied by the release of intense heat and volatile gases, sealed within pressurized chambers between the [Aegolith](/wiki/objects/material/Aegolith.md) core and the surrounding rock. Due to the danger of ignition and explosion, the extraction of natural Pitchstone requires the use of Granite Wood tools, a specialized alloy originating from the dwarves of Nalgolir, the southern Dwarfen Kingdom of the Land Eprar. Granite Wood's property of producing no sparks upon impact makes it essential for safe mining in reactive [Aegolith](/wiki/objects/material/Aegolith.md) environments.
+
+Natural Pitchstone is most abundantly obtained in the [Devil's Hole](/wiki/geography/eides/arch-god-kingdom/forelands/Devils-Hole.md), where it is recovered as a byproduct of [Aegolith](/wiki/objects/material/Aegolith.md) extraction. In addition to natural sources, artificial Pitchstone is produced in the Pitchstone Refineries of the Lordship Ait, situated on a remote half-island east of its capital Ventheller in the [Kingdom of Neuhaven](/wiki/geography/eides/arch-god-kingdom/Neuhaven.md). These facilities replicate the natural reaction process under controlled conditions, allowing for the production of Pitchstone without the hazards of deep-mining operations. Nevertheless, Pitchstone-refining remains a dangerous endeavor, as the process can still result in explosive reactions if not carefully managed.
