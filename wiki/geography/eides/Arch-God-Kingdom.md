@@ -50,6 +50,19 @@ Three of these kingdoms - Solvalon, Bivalon, and Trivalon - are artificial const
 
 The Forelands, the last region to join the Arch-God Kingdom, represent the expansionist nature of the realm and its ability to incorporate new territories into its complex political structure.
 
+### Kingdoms
+
+- **Solvalon**: The capital kingdom, known for its political significance and as the seat of the Arch-God King.
+- **[Bivalon](/wiki/geography/eides/arch-god-kingdom/Bivalon.md)**: Sister kingdom to Solvalon in the west, it was established as part of the division of the original Kingdom of Dreoniell.
+- **[Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md)**: Second sister kingdom to Solvalon, located in the east, also created from the division of the Kingdom of Dreoniell.
+- **Lichtfall**: The southernmost kingdom, known for its rich resources and fertile lands.
+- **[Neuhaven](/wiki/geography/eides/arch-god-kingdom/Neuhaven.md)**: A kingdom that serves as a hub for trade and cultural exchange.
+- **[Forelands](/wiki/geography/eides/arch-god-kingdom/Forelands.md)**: The most recent addition to the Arch-God Kingdom, established as a buffer zone against the Land of Abominations.
+- **[Kingdom of Guilds](/wiki/geography/eides/arch-god-kingdom/Kingdom-of-Guilds.md)**: A unique kingdom and hub to the guilds of the Arch-God Kingdom.
+- **Hochcordt**: A mountainous and scarce kingdom to the north, known for its rugged terrain and hardy people.
+- **Fiendheim**: A kingdom of plateaus and grasslands, known for its seafaring culture and strong naval presence.
+- **Kharis**: A kingdom of plains and forests, known for its vast agricultural lands and rich natural resources.
+
 ## Cultural Significance
 
 The Arch-God Kingdom stands as a testament to human resilience and ambition in the world of Eides. Its long history, marked by periods of expansion, war, and rebuilding, has shaped the political and cultural landscape of the known world. The title of "Arch-God King" suggests a fusion of political and religious authority, hinting at a complex relationship between governance and faith in the kingdom.
