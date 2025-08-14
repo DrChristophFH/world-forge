@@ -3,9 +3,9 @@ category: kingdom
 ---
 
 # Trivalon
+Capital: Offlion
 
 ## Lordships
-Capital: Offlion
 
 ### Vezdian
 Capital: Offlion
