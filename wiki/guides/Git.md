@@ -10,21 +10,9 @@ category: guide
 
 # Working with Git
 
-Git is a distributed version control system that helps track changes in source code during software development. GitHub is a web-based platform that uses Git for version control and collaboration. To get started with Git and GitHub, we recommend the following resources:
+If you're new to Git and GitHub and just want to contribute the next section is for you. Especially if you have never used Git or another version control system before. If you are already familiar with Git and GitHub, you can skip to the [Commit Messages](#commit-messages) section.
 
-- [GitHub's Git Handbook](https://guides.github.com/introduction/git-handbook/)
-- [Git - the simple guide](https://rogerdudler.github.io/git-guide/)
-
-For contributing to this project, we primarily use forks and pull requests (PRs). Here's a basic workflow:
-
-1. Fork the main repository to your GitHub account.
-2. Clone your fork to your local machine.
-3. Create a new branch for your changes.
-4. Make your changes and commit them to your branch.
-5. Push your branch to your fork on GitHub.
-6. Open a pull request from your branch to the main repository.
-
-For a more detailed guide on forking and creating pull requests, see [GitHub's guide on forking projects](https://guides.github.com/activities/forking/).
+For all the others, follow me to the [✨Total Beginners Guide✨](/wiki/guides/Beginners.md) to get a step by step introduction to everything you need to know to contribute to the World Forge wiki!
 
 ## Commit Messages
 
