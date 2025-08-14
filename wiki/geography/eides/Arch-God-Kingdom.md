@@ -7,13 +7,13 @@ date_range:
 
 # Arch-God Kingdom
 
-The Arch-God Kingdom, also known as the Arch-God Kingdom of Men, is a powerful and ancient realm in the world of Eides. It is a union of ten kingdoms under the rule of the Arch-God King, with a rich history spanning over two millennia.
+The Arch-God Kingdom, also known as the Arch-God Kingdom of Man, is a powerful and ancient realm in the world of Eides. It is a union of ten kingdoms under the rule of the Arch-God King, with a rich history spanning over two millennia.
 
 ## History
 
 ### Origins and Early History
 
-The roots of the Arch-God Kingdom can be traced back to 1378 BB with the founding of the Kingdom of Dreoniell. This marked the beginning of a new era in the history of mankind in Eides. However, the true birth of the Arch-God Kingdom came centuries later in 799 BB, with the coronation of the first Arch-God King and the official founding of the Arch-God Kingdom of Men.
+The roots of the Arch-God Kingdom can be traced back to 1378 BB with the founding of the Kingdom of Dreoniell. This marked the beginning of a new era in the history of mankind in Eides. However, the true birth of the Arch-God Kingdom came centuries later in 799 BB, with the coronation of the first Arch-God King, Arch-God King Urian var Termenor, and the official founding of the Arch-God Kingdom of Man.
 
 ### Expansion and Fortification
 
@@ -26,7 +26,7 @@ As the kingdom grew in power and influence, it began to expand its territories a
 
 The year 397 AB marked the beginning of the "Era of Eternal War," a period of prolonged conflict that would shape the kingdom's future:
 
-- 400 AB: The Eastern Empire declared war on the Arch-God Kingdom of Men, initiating a long-standing rivalry.
+- 400 AB: The Eastern Empire declared war on the Arch-God Kingdom of Man, initiating a long-standing rivalry.
 - 413 AB: The Battle of the Burning Plains saw the defeat of Eastern Empire forces in Kascar, a significant victory for the Arch-God Kingdom.
 - 458 AB: Operation Wisp, an attempt by the Arch-God Kingdom to invade the Eastern Empire, failed to pass through the Kielpass and resulted in heavy losses.
 

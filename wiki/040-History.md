@@ -22,7 +22,7 @@ category: index
 - 1513 BB: Departure of Bolibere into the Aunarach Desert
 - 1501 BB: Construction of the first tower in Strakius (City)
 - 1378 BB: Founding of the Kingdom of Dreoniell
-- 799 BB: Coronation of the first Arch-God King and founding of the Arch-God Kingdom of Men
+- 799 BB: Coronation of the first Arch-God King and founding of the Arch-God Kingdom of Man
 - 648 BB: Battle of Pryleth
 - 493 BB: Beginning of monster fishing in the Vast Waters
 - 345 BB: Establishment of the first outpost in the Western Colony "Chasm Fields"
@@ -52,7 +52,7 @@ category: index
 - 355 AB: Eighth Dark Storm, Duration: 66 days
 - 396 AB: [Ninth Dark Storm](/wiki/history/events/dark-storms/Ninth-Dark-Storm.md) Destroys large parts of the northern kingdoms over 262 days, significantly weakening the Arch-God Kingdom and its forces
 - 397 AB: [Begin "Era of Eternal War"](/wiki/history/Calendar.md#eras)
-- 400 AB: The Eastern Empire declares war on the Arch-God Kingdom of Men
+- 400 AB: The Eastern Empire declares war on the Arch-God Kingdom of Man
 - 409 AB: Spies of the Eastern Empire cause turmoil in Whitedrum, inciting people against the king. Lightfall
 - 410 AB: Winter, the 2nd Troop Corps of the 3rd Army Group Lightfall largely deserts
 - 410 AB: Winter, "Battle of Brothers" for Whitedrum-Keep

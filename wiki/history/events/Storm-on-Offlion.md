@@ -9,7 +9,7 @@ The Storm on Offlion, occurring on 12 Ros 462 AB, stands as one of the bloodiest
 
 ## Participating Forces
 
-### Arch-God Kingdom of Men (AGKM) - Approximately 500,000 troops
+### Arch-God Kingdom of Man (AGKM) - Approximately 500,000 troops
 - Royal Guard Corps of the Trivalon Army: ~80,000
 - 7th Troop Corps of the Trivalon Army: ~75,000
 - 8th Troop Corps of the Trivalon Army: ~60,000

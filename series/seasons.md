@@ -8,7 +8,7 @@ A ten-season epic fantasy series spanning the complete timeline of the Bulwarks 
 **The Birth of an Empire**
 - Formation of the early kingdoms leading to the Arch-God Kingdom
 - Political intrigue, alliances, and the consolidation of power
-- The coronation of the first Arch-God King and the founding of the Arch-God Kingdom of Men
+- The coronation of the first Arch-God King and the founding of the Arch-God Kingdom of Man
 - Establishes the foundation of human civilization in Eides
 
 ### [Season 2](/series/season-02/plot.md): "The Great Convergence" (173 BB)
