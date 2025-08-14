@@ -21,10 +21,10 @@ Kingdoms:
 3. [Kingdom of Guilds](/wiki/geography/eides/arch-god-kingdom/Kingdom-of-Guilds.md)
 4. Fiendheim
 5. Kharis
-6. Bivalon
+6. [Bivalon](/wiki/geography/eides/arch-god-kingdom/Bivalon.md)
 7. Solvalon (Capital)
-8. Trivalon
-9. New Haven
+8. [Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md)
+9. [Neuhaven](/wiki/geography/eides/arch-god-kingdom/Neuhaven.md)
 10. Lightfall
 
 ## Kraikar
