@@ -35,6 +35,17 @@ You can then change your copy without affecting the original. This is useful if 
 
 ## Step By Step Guide
 
+### Installing the Tools
+
+1. First we install [Git](https://git-scm.com/downloads) on your computer. This is the tool that will help you manage your project versions.
+2. Next, we need to install [Visual Studio Code](https://code.visualstudio.com/) (VS Code), which is a code editor that will help us write and edit our code more easily.
+
+Just download the installers and follow the installation instructions.
+
+When you are done you should be able to open a terminal and type `git` in it and hit enter. If you see a list of commands, you have successfully installed Git!
+
+![alt text](../../resources/wiki/guides/image-16.png)
+
 ### Forking the World Forge Repository
 
 1. Go to the repository page on [GitHub](https://github.com/DrChristophFH/world-forge).
