@@ -62,5 +62,8 @@
     "Dutemt",
     "Varis",
     "Fringres"
-  ]
+  ],
+  "markdown.copyFiles.destination": {
+    "*": "/resources/${documentRelativeDirName}/${fileName}"
+  }
 }
