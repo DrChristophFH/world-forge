@@ -116,3 +116,9 @@ Once you have made all your changes, committed them and pushed them to your fork
 
 1. Go to your forked repository on GitHub.
 2. You should see a banner that lists how many commits you have ahead of the original repository (and how many behind), there click "Contribute" ![alt text](../../resources/wiki/guides/image-13.png)
+3. And then "Open pull request" ![alt text](../../resources/wiki/guides/image-14.png)
+4. You will get to a page where you can enter a title and description for your pull request. Make sure to provide a clear and concise description of the changes you made and why they should be merged. ![alt text](../../resources/wiki/guides/image-15.png)
+5. Once you have done that, you can click the "Create pull request" button to submit your pull request.
+6. Done! Now you can sit back and wait for the maintainers (me and the other contributors) to review your changes.
+
+Congratulations! You've successfully contributed to the World Forge project. You can be proud of yourself 👏
