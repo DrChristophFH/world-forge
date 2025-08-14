@@ -1,5 +1,6 @@
 .venv
 .vscode/*
 !.vscode/settings.json
+!.vscode/extensions.json
 *-outline.md
 .obsidian
