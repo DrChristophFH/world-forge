@@ -65,5 +65,6 @@
   ],
   "markdown.copyFiles.destination": {
     "*": "/resources/${documentRelativeDirName}/${fileName}"
-  }
+  },
+  "markdown.updateLinksOnFileMove.enabled": "prompt"
 }
