@@ -6,7 +6,7 @@ date_range:
 
 # The Forelands
 
-<img src="/resources/maps/Forelands.jpg" alt="Eides" style="width: 100%;"/>
+<img src="/resources/maps/Forelands.jpg" alt="Forelands Map" style="width: 100%;"/>
 
 The Forelands, also known as the 10th Kingdom, is the most recent addition to the Arch-God Kingdom. Established in 64 BB, it serves as a crucial buffer zone between the civilized lands and the treacherous Land of Abominations to the north.
 

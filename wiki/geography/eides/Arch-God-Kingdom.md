@@ -7,13 +7,15 @@ date_range:
 
 # Arch-God Kingdom
 
-The Arch-God Kingdom, also known as the Arch-God Kingdom of Man, is a powerful and ancient realm in the world of Eides. It is a union of ten kingdoms under the rule of the Arch-God King, with a rich history spanning over two millennia.
+<img src="/resources/maps/Archgod-Kingdom.jpg" alt="Arch-God Kingdom Map" style="width: 100%;"/>
+
+The Arch-God Kingdom, also known as the Arch-God Kingdom of Man, is a powerful and ancient realm in the world of [Eides](/wiki/geography/Eides.md). It is a union of ten kingdoms under the rule of the Arch-God King, with a rich history spanning over two millennia.
 
 ## History
 
 ### Origins and Early History
 
-The roots of the Arch-God Kingdom can be traced back to 1378 BB with the founding of the Kingdom of Dreoniell. This marked the beginning of a new era in the history of mankind in Eides. However, the true birth of the Arch-God Kingdom came centuries later in 799 BB, with the coronation of the first Arch-God King, Arch-God King Urian var Termenor, and the official founding of the Arch-God Kingdom of Man.
+The roots of the Arch-God Kingdom can be traced back to 1378 BB with the founding of the Kingdom of Dreoniell. This marked the beginning of a new era in the history of mankind in [Eides](/wiki/geography/Eides.md). However, the true birth of the Arch-God Kingdom came centuries later in 799 BB, with the coronation of the first Arch-God King, Arch-God King [Urian var Termenor](/wiki/people/Urian-Yomun.md), and the official founding of the Arch-God Kingdom of Man.
 
 ### Expansion and Fortification
 
@@ -24,7 +26,7 @@ As the kingdom grew in power and influence, it began to expand its territories a
 
 ### Era of Eternal War
 
-The year 397 AB marked the beginning of the "Era of Eternal War," a period of prolonged conflict that would shape the kingdom's future:
+The year 397 AB marked the beginning of the "Era of Eternal War", a period of prolonged conflict that would shape the kingdom's future:
 
 - 400 AB: The Eastern Empire declared war on the Arch-God Kingdom of Man, initiating a long-standing rivalry.
 - 413 AB: The Battle of the Burning Plains saw the defeat of Eastern Empire forces in Kascar, a significant victory for the Arch-God Kingdom.
@@ -35,18 +37,18 @@ The year 397 AB marked the beginning of the "Era of Eternal War," a period of pr
 The kingdom faced its greatest challenge during the Eastern Empire's invasion:
 
 - 461 AB: [Heimatfall](/wiki/history/events/Heimatfall.md) marked the beginning of the Eastern Empire's invasion of the Arch-God Kingdom.
-- 462 AB: Trivalon fell completely to the Eastern Empire's forces.
+- 462 AB: [Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md) fell completely to the Eastern Empire's forces.
 - 465 AB: A dark year for the kingdom, marked by the betrayal and murder of Arch-God King Kathen var Termenor and the fall of Kavaloniir and thus Solvalon.
 
 However, the Arch-God Kingdom showed remarkable resilience:
 
-- 477 AB: The Rahkam Offensive by the Arch-God Royal Armed Forces successfully recaptured Solvalon, Trivalon, Lightfall, Bivalon, and New Haven, marking a significant turning point in the war.
+- 477 AB: The Rahkam Offensive by the Arch-God Royal Armed Forces successfully recaptured Solvalon, [Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md), Lightfall, [Bivalon](/wiki/geography/eides/arch-god-kingdom/Bivalon.md), and New Haven, marking a significant turning point in the war.
 
 ## Structure and Governance
 
 The Arch-God Kingdom is a union of ten distinct kingdoms, each with its own king, but all under the supreme rule of the Arch-God King. The capital kingdom is Solvalon, which serves as the seat of power for the Arch-God King.
 
-Three of these kingdoms - Solvalon, Bivalon, and Trivalon - are artificial constructs, created from the division of the original Kingdom of Dreoniell. This division likely occurred to distribute power and create a more stable governance structure.
+Three of these kingdoms - Solvalon, [Bivalon](/wiki/geography/eides/arch-god-kingdom/Bivalon.md), and [Trivalon](/wiki/geography/eides/arch-god-kingdom/Trivalon.md) - are artificial constructs, created from the division of the original Kingdom of Dreoniell. This division likely occurred to distribute power and create a more stable governance structure.
 
 The Forelands, the last region to join the Arch-God Kingdom, represent the expansionist nature of the realm and its ability to incorporate new territories into its complex political structure.
 
@@ -65,12 +67,12 @@ The Forelands, the last region to join the Arch-God Kingdom, represent the expan
 
 ## Cultural Significance
 
-The Arch-God Kingdom stands as a testament to human resilience and ambition in the world of Eides. Its long history, marked by periods of expansion, war, and rebuilding, has shaped the political and cultural landscape of the known world. The title of "Arch-God King" suggests a fusion of political and religious authority, hinting at a complex relationship between governance and faith in the kingdom.
+The Arch-God Kingdom stands as a testament to human resilience and ambition in the world of [Eides](/wiki/geography/Eides.md). Its long history, marked by periods of expansion, war, and rebuilding, has shaped the political and cultural landscape of the known world. The title of "Arch-God King" suggests a fusion of political and religious authority, hinting at a complex relationship between governance and faith in the kingdom.
 
 The construction of the Bulwarks in the Black Mountains, which began in 95 BB, not only served as a defensive measure but also became a defining feature of the kingdom, so much so that it influenced the calendar system of the kingdom, and with the kingdom being the most dominant trading partner in the known lands, it also influenced the calendar system of the known lands.
 
 ## Legacy
 
-The Arch-God Kingdom's influence extends far beyond its borders. Its ongoing conflict with the Eastern Empire has shaped the geopolitical landscape of Eides for centuries. The kingdom's ability to withstand invasions, internal strife, and the challenges of ruling a vast, diverse realm speaks to its enduring strength and the effectiveness of its unique governance structure.
+The Arch-God Kingdom's influence extends far beyond its borders. Its ongoing conflict with the Eastern Empire has shaped the geopolitical landscape of [Eides](/wiki/geography/Eides.md) for centuries. The kingdom's ability to withstand invasions, internal strife, and the challenges of ruling a vast, diverse realm speaks to its enduring strength and the effectiveness of its unique governance structure.
 
-As of 477 AB, with the recapture of key territories, the Arch-God Kingdom has once again proven its resilience and remains a dominant power in the world of Eides, poised to face whatever challenges the future may hold.
+As of 477 AB, with the recapture of key territories, the Arch-God Kingdom has once again proven its resilience and remains a dominant power in the world of [Eides](/wiki/geography/Eides.md), poised to face whatever challenges the future may hold.
