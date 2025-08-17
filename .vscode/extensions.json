@@ -7,6 +7,7 @@
         "bierner.markdown-preview-github-styles",
         "TakumiI.markdowntable",
         "PKief.material-icon-theme",
-        "Gruntfuggly.todo-tree"
+        "Gruntfuggly.todo-tree",
+        "bierner.markdown-footnotes"
     ]
 }
