@@ -4,8 +4,6 @@ category: guide
 
 - [Working with Git](#working-with-git)
   - [Commit Messages](#commit-messages)
-    - [Types and Sub-Types](#types-and-sub-types)
-    - [Examples](#examples)
 
 
 # Working with Git
@@ -16,48 +14,22 @@ For all the others, follow me to the [✨Total Beginners Guide✨](/wiki/guides/
 
 ## Commit Messages
 
-When making changes, it's important to write clear and descriptive commit messages. For this reason, we follow a specific format for commit messages:
+When making changes, it's important to write clear and descriptive commit messages. For this reason, we follow a specific format for commit messages. Commit messages should be written, such that when appended to the sentence
 
 ```
-<type>:<sub-type> <description>
+If applied, this commit will...
 ```
 
-### Types and Sub-Types
+it forms a complete thought. This format helps maintain clarity and consistency in our commit history, making it easier for others to understand the purpose of each change.
 
-- **Article**: For changes related to articles.
-  - **Add**: For new articles.
-  - **Update**: For updates to existing articles.
-  - **Delete**: For deleting articles.
-- **Formatting**: For fixing issues in articles.
-  - **Typo**: For fixing typos.
-  - **Links**: For fixing/adding links.
-- **Meta**: For changes related to article metadata (e.g., frontmatter, categories).
-- **Other**: For any other changes that don't fit into the above categories.
-
-Sub-types are optional and can be omitted if not applicable. The description should be concise and clearly explain the changes made.
-
-In detail descriptions can be added to the message by leaving a blank line after the first line and then writing the detailed description:
+For example a message could look like this:
 
 ```
-Article:New Free Lands
-
-This article describes the Free Lands, a collection of independent 
-territories that have agreed to open borders and free trade, while 
-maintaining their individual sovereignty.
+Add an article about the Grand War
 ```
 
-### Examples
+This is ok, as it would form the following complete thought:
 
 ```
-Article:New Free Lands
+If applied, this commit will add an article about the Grand War.
 ```
-
-Would be used for a new article about the Free Lands.
-
----
-
-```
-Article:Update Trading in the Free Lands
-```
-
-Would be used for updating the Free Lands article (and others) with information about trading.
