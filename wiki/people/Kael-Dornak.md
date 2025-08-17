@@ -4,13 +4,16 @@ category: biography
 
 # Ser Kael Dornak of Skelgard
 
+
 **Kael Dornak** (dates of birth and death uncertain, often conjectured as c. 81 - 27 BB) was a knight of ill-fated renown, remembered not for deeds of honor but for the singular torment that defined his existence. Kael is regarded by most historians as a tragic exemplar of knightly failure, undone less by wounds of flesh than by the wounds of the heart and the phantoms of sleep.
 
 ## Early Life and Rise
 
-The details of Kael's birth are shrouded in obscurity. The *Annals of Dreymar* place his origin in the borderlands of Holford, naming him the son of a retainer of the house of Grenval in the lordship Agoiir in Fiendheim. [^1]
+<!-- Skelgard is the castle in which the house Grenval resides. It is located in an area named Holford in the lordship Agoiir in Fiendheim. Kael Dornak was knighted under their banner, though in the black mountains. -->
 
-Whether noble or merely of yeoman stock, Kael received training in arms sufficient to earn notice during the Forelands Campaign. His elevation to knighthood is attributed to his service at the siege of Lower Karr Keep (c. 54 BB), where military reports describe his "unyielding cruelty upon the walls".[^2]
+The details of Kael's birth are shrouded in obscurity. The *Annals of Skelgard* place his origin in the borderlands of Holford, naming him the son of a retainer of the house of Grenval in the lordship Agoiir in Fiendheim. [^1]
+
+Whether noble or merely of yeoman stock, Kael received training in arms sufficient to earn notice during the Forelands Campaign. His elevation to knighthood is attributed to his service at the siege of [Lower Karr Keep](/wiki/geography/eides/land-of-abominations/black-mountains/Lower-Karr-Keep.md) (c. 54 BB), where military reports describe his "unyielding cruelty upon the walls".[^2]
 
 Unlike many knights whose reputations were forged in acts of gallantry, Kael's rise was steeped in fear. Soldiers of his own host wrote of him as a man to whom bloodshed was as common as breath, one "untouched by horror, untroubled by betrayal".[^3] Yet these same witnesses remark upon a peculiar emptiness, a lack of the joy or fervor that often animated younger knights. His gaze, they claim, was fixed not upon victory but upon something unseen, always beyond his reach.
 
@@ -36,7 +39,7 @@ Other sources, such as the itinerant bard Sarn of Rhyvel, contend he yet wanders
 
 No tomb, no relic, and no confirmed grave has ever been identified.
 
-[^1]: *Annals of Dreymar*, fol. 142b, "The Sons of Holford."
+[^1]: *Annals of Skelgard*, fol. 142b, "The Sons of Holford."
 
 [^2]: *Records of Engagements in Black Mountains; Post Foreland Campaign: Official Account of the Siege of Lower Karr Keep*, preserved in the Marveth Military Archives in Solvalon (fragmentary).
 
