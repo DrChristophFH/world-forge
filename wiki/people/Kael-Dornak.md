@@ -39,6 +39,16 @@ Other sources, such as the itinerant bard Sarn of Rhyvel, contend he yet wanders
 
 No tomb, no relic, and no confirmed grave has ever been identified.
 
+## Letters
+
+Kael's letters, though few, offer a glimpse into his fractured psyche. They are filled with a raw honesty that is both haunting and beautiful. In them, he grapples with his identity, his desires, and the ever-present shadow that haunts him.
+
+The letters are not addressed to anyone in particular, and often seem to be written for his own sake rather than for an audience. They are a form of catharsis, a way for him to confront the darkness within.
+
+**Known Letters:**
+
+- [Greyfast Nightwatch Letter](/wiki/objects/literature/letters/L1-Kael-Dornak.md)
+
 [^1]: *Annals of Skelgard*, fol. 142b, "The Sons of Holford."
 
 [^2]: *Records of Engagements in Black Mountains; Post Foreland Campaign: Official Account of the Siege of Lower Karr Keep*, preserved in the Marveth Military Archives in Solvalon (fragmentary).
