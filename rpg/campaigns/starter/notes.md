@@ -1,4 +1,19 @@
-“The Coal Pit Beast” - Adventure Outline
+## Job Board
+
+1. Coalpit Drainage
+5g for full cleanup
+
+2. Millrum Creek Bridge Maintenance
+3s for checkup and 10c for each replaced board
+
+3. Eastern Signal Tower
+Demolition 5s per Tower, 4 Towers on the ridge
+
+4. Old Supply Road Repair
+3s per Stretch
+
+
+## The Coal Pit
 
 The Setup
 
