@@ -92,6 +92,8 @@ The Bright Era of Magic is placed at approximately 35000 before the Bulwarks. Du
 
 Where a Viator could fashion a realm, even the most gifted mortal pupils could accomplish little beyond the manipulation of objects small enough to fit in a hand. Instruction gave them access to magic without giving them the nature or understanding of their teachers.
 
+Even these small workings required years spent listening to the Viators and following their teachings, gradually filling the gaps in understanding that prevented a pupil from performing them. For humans, whose lives seldom exceeded sixty years, such study was demanding and exhausting. A considerable part of a lifetime could pass before a pupil acquired the understanding needed for a task that appeared effortless in a teacher's hands.
+
 The truth of the teaching did not satisfy every pupil. Some saw the powers of their teachers and found their own achievements intolerably small. Knowledge that the Viators considered profound offered little consolation to those who measured their place by the power they could wield.
 
 Over centuries, frustration grew into envy and hatred. Those dissatisfied with their standing in the natural order spread resentment against the Viators and sought more extreme paths to power. The wisdom upon which Viator teaching depended became its greatest weakness: its pupils could desire the results long before they possessed the understanding needed to achieve them.
@@ -106,9 +108,9 @@ At the beginning of his work, the Weave lay undamaged before him. Its strength a
 
 Shovresk spent years in hiding, refining the technique with others drawn to its sheer power. He eventually became more powerful than most of the Viators themselves. His teachings spread among those who had long resented the limits of their own abilities.
 
-When the Viators learned of his work, they recognized the destruction of something that was not his to destroy. They demanded that the practice cease. By then, its teachings had already passed beyond him and were spreading further with every day.
+When the Viators learned of his work, they recognized the destruction of something that was not his to destroy. They confronted Shovresk with the damage his practice inflicted upon the Weave and demanded that it cease. He understood what that damage meant, but refused to yield. Having gained access to such power, he would not surrender it. By then, his teachings had already passed beyond him and were spreading further with every day. A return to the limits of their former practice held no appeal for those who had learned to exceed them.
 
-The Viators also underestimated the power he had acquired. Their own understanding of magic made it difficult to comprehend the full force that such an aggressive and brutal practice could unleash. Their judgment of Shovresk remained bound to limitations he had found a way to overcome, at a cost they understood better than he did.
+The Viators also underestimated the power he had acquired. Their own understanding of magic made it difficult to comprehend the full force that such an aggressive and brutal practice could unleash. Their judgment of Shovresk remained bound to limitations he had found a way to overcome.
 
 ### Val'kaárun and the Departure
 
@@ -118,7 +120,7 @@ There Shovresk unleashed unimaginable power against the Viators. The forces brou
 
 The survivors abandoned the teaching of the mortal peoples and departed from Eides, bringing their ascendancy to an end.
 
-Their departure is associated with the fall of the ancient civilization, placed at approximately 30000 before the Bulwarks. The date marks the broad historical account. Their destination after leaving Eides remains unknown.
+Their departure is associated with the fall of the ancient civilization, placed at approximately 30000 before the Bulwarks. Their destination after leaving Eides remains unknown.
 
 The teaching of magic had spread beyond their control. Shovresk's practice survived them and passed into the civilizations that followed.
 
@@ -137,6 +139,8 @@ The Weave continued to suffer under the repeated use of the newer magic. The dec
 Traces of Viator civilization also survived in language. The Old Language, preserved in the names of places and objects, descends from their speech. Words endured in ordinary use after knowledge of the people who first spoke them had faded.
 
 Some scholars attribute the creation of Eides's native species to the Viators. This remains a theory rather than an established account of life's beginnings. Their command of the Weave explains why such powers have been attributed to them, but does not establish every deed assigned to their name.
+
+Shovresk's practice is now the only known method of magic. The art taught by the Viators has been lost, and almost all who practise magic remain unaware that their workings damage the Weave. The method survived through the ages while knowledge of its cost disappeared.
 
 [To develop: the rare materials from which this chapter was compiled. Withdrawal permits restricted circulation; it does not establish how the compiler obtained the knowledge. No particular archive, informant, or act of censorship has yet been specified.]
 
